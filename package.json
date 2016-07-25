@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -3334,6 +3335,411 @@
               "[@luciano-jr](https://github.com/luciano-jr)/[**beerAI**](https://github.com/luciano-jr/beerAI)",
               "A simple project to does specialist system AI",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "600",
+              "[@dpgaspar](https://github.com/dpgaspar)/[**Flask-AppBuilder**](https://github.com/dpgaspar/Flask-AppBuilder)",
+              "Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.co…",
+              ""
+            ],
+            [
+              "107",
+              "[@enen92](https://github.com/enen92)/[**program.plexus**](https://github.com/enen92/program.plexus)",
+              "(discontinued)",
+              ""
+            ],
+            [
+              "66",
+              "[@alcides](https://github.com/alcides)/[**pascal-in-python**](https://github.com/alcides/pascal-in-python)",
+              "Pascal compiler implemented in python using Lex, Yacc and LLVM",
+              ""
+            ],
+            [
+              "59",
+              "[@rcarmo](https://github.com/rcarmo)/[**rss2imap**](https://github.com/rcarmo/rss2imap)",
+              "An adaptation of rss2mail that uses IMAP directly",
+              ""
+            ],
+            [
+              "54",
+              "[@rcarmo](https://github.com/rcarmo)/[**Yaki**](https://github.com/rcarmo/Yaki)",
+              "A filesystem based wiki",
+              "[:arrow_upper_right:](http://the.taoofmac.com/space/projects/Yaki)"
+            ],
+            [
+              "53",
+              "[@rcarmo](https://github.com/rcarmo)/[**bottle-fever**](https://github.com/rcarmo/bottle-fever)",
+              "A clean-room clone of the Fever RSS aggregator, focusing on the API",
+              ""
+            ],
+            [
+              "51",
+              "[@rcarmo](https://github.com/rcarmo)/[**HJKLPlugin**](https://github.com/rcarmo/HJKLPlugin)",
+              "A plugin for using vim movement keys (HJKL) to navigate messages and message lists in Mac OS X Mail",
+              ""
+            ],
+            [
+              "37",
+              "[@rcarmo](https://github.com/rcarmo)/[**pngcanvas**](https://github.com/rcarmo/pngcanvas)",
+              "A minimalist library to render PNG images using pure Python",
+              ""
+            ],
+            [
+              "33",
+              "[@rcarmo](https://github.com/rcarmo)/[**imapbackup**](https://github.com/rcarmo/imapbackup)",
+              "A Python script for incremental backups of IMAP mailboxes",
+              "[:arrow_upper_right:](http://taoofmac.com/space/projects/imapbackup)"
+            ],
+            [
+              "30",
+              "[@rcarmo](https://github.com/rcarmo)/[**soup-strainer**](https://github.com/rcarmo/soup-strainer)",
+              "A reimplementation of the Readability/Decruft algorithm using BeautifulSoup and html5lib",
+              ""
+            ],
+            [
+              "29",
+              "[@imankulov](https://github.com/imankulov)/[**celery-api**](https://github.com/imankulov/celery-api)",
+              "Celery API discovery module",
+              ""
+            ],
+            [
+              "21",
+              "[@rcarmo](https://github.com/rcarmo)/[**piku**](https://github.com/rcarmo/piku)",
+              "The tiniest PaaS you've ever seen (for the Raspberry Pi, too!)",
+              ""
+            ],
+            [
+              "19",
+              "[@rcarmo](https://github.com/rcarmo)/[**ink-bottle**](https://github.com/rcarmo/ink-bottle)",
+              "A minimal skeleton for doing Bottle apps in a structured fashion (targeting Python 2.7 or above)",
+              ""
+            ],
+            [
+              "18",
+              "[@marado](https://github.com/marado)/[**stars-to-addresses**](https://github.com/marado/stars-to-addresses)",
+              "Get addresses from Google location stars",
+              ""
+            ],
+            [
+              "18",
+              "[@rcarmo](https://github.com/rcarmo)/[**python-utils**](https://github.com/rcarmo/python-utils)",
+              "A set of libraries I constantly re-use for a number of projects",
+              ""
+            ],
+            [
+              "18",
+              "[@alcides](https://github.com/alcides)/[**wallmanager**](https://github.com/alcides/wallmanager)",
+              "Website and Multitouch app to manage a Multi-Touch surface.",
+              "[:arrow_upper_right:](http://code.google.com/p/sensewall)"
+            ],
+            [
+              "13",
+              "[@imankulov](https://github.com/imankulov)/[**vqmetrics**](https://github.com/imankulov/vqmetrics)",
+              "Python functions to convert between different speech quality metrics",
+              ""
+            ],
+            [
+              "11",
+              "[@rcarmo](https://github.com/rcarmo)/[**transducers-py**](https://github.com/rcarmo/transducers-py)",
+              "A (discontinued) attempt at creating a Python transducer library, done as a weekend project",
+              ""
+            ],
+            [
+              "11",
+              "[@imankulov](https://github.com/imankulov)/[**speex-quality-evalua…**](https://github.com/imankulov/speex-quality-evaluation)",
+              "Source data, scripts and makefiles of the experiment for the Speex codec quality evaluation",
+              ""
+            ],
+            [
+              "10",
+              "[@rcarmo](https://github.com/rcarmo)/[**divmod.org**](https://github.com/rcarmo/divmod.org)",
+              "Archive of the old divmod.org SVN repo (snapshot from Launchpad)",
+              ""
+            ],
+            [
+              "10",
+              "[@enen92](https://github.com/enen92)/[**screensaver.atv4**](https://github.com/enen92/screensaver.atv4)",
+              "Apple aerial screensavers (apple tv 4) for Kodi",
+              ""
+            ],
+            [
+              "10",
+              "[@alcides](https://github.com/alcides)/[**tarpipe-python**](https://github.com/alcides/tarpipe-python)",
+              "Tarpipe API library in Python",
+              "[:arrow_upper_right:](http://wiki.alcidesfonseca.com)"
+            ],
+            [
+              "8",
+              "[@alcides](https://github.com/alcides)/[**alcides-bliki**](https://github.com/alcides/alcides-bliki)",
+              "My personal bliki",
+              "[:arrow_upper_right:](http://wiki.alcidesfonseca.com)"
+            ],
+            [
+              "8",
+              "[@dpgaspar](https://github.com/dpgaspar)/[**Flask-AppBuilder-Ske…**](https://github.com/dpgaspar/Flask-AppBuilder-Skeleton)",
+              "Skeleton application to use with Flask-AppBuilder (pip install flask-appbuilder)",
+              ""
+            ],
+            [
+              "8",
+              "[@enen92](https://github.com/enen92)/[**plugin.video.rtpplay**](https://github.com/enen92/plugin.video.rtpplay)",
+              "RTP Play Video Addon for KODI Entertainment Center",
+              ""
+            ],
+            [
+              "8",
+              "[@alcides](https://github.com/alcides)/[**django-layout**](https://github.com/alcides/django-layout)",
+              "My default Django folder structure",
+              "[:arrow_upper_right:](http://alcidesfonseca.com)"
+            ],
+            [
+              "8",
+              "[@alcides](https://github.com/alcides)/[**rdflib**](https://github.com/alcides/rdflib)",
+              "rdflib for Python, with SQLite fixes.",
+              "[:arrow_upper_right:](http://code.alcidesfonseca.com/docs/rdflib/)"
+            ],
+            [
+              "7",
+              "[@nmariz](https://github.com/nmariz)/[**xmlgenerator**](https://github.com/nmariz/xmlgenerator)",
+              "A simple python XML Generator",
+              ""
+            ],
+            [
+              "6",
+              "[@tnunes](https://github.com/tnunes)/[**codebits-talkgrabber**](https://github.com/tnunes/codebits-talkgrabber)",
+              "Download videos and presentations of Sapo Codebits Talks",
+              "[:arrow_upper_right:](https://codebits.eu/s/calendar)"
+            ],
+            [
+              "6",
+              "[@enen92](https://github.com/enen92)/[**script.module.thespo…**](https://github.com/enen92/script.module.thesportsdb)",
+              "Python module for thesportsdb.com",
+              ""
+            ],
+            [
+              "5",
+              "[@enen92](https://github.com/enen92)/[**script.tvlogo.downlo…**](https://github.com/enen92/script.tvlogo.downloader)",
+              "TVLogo Downloader program addon for Kodi",
+              ""
+            ],
+            [
+              "5",
+              "[@ticklemynausea](https://github.com/ticklemynausea)/[**mbot-shell**](https://github.com/ticklemynausea/mbot-shell)",
+              "Shell scripts for mbot's shell module",
+              ""
+            ],
+            [
+              "5",
+              "[@rcarmo](https://github.com/rcarmo)/[**vagrant-templates**](https://github.com/rcarmo/vagrant-templates)",
+              "Templates for Vagrant VMs with useful snippets",
+              ""
+            ],
+            [
+              "5",
+              "[@enen92](https://github.com/enen92)/[**script.sportscenter**](https://github.com/enen92/script.sportscenter)",
+              "kodi addon - WORK IN PROGRESS",
+              ""
+            ],
+            [
+              "5",
+              "[@imankulov](https://github.com/imankulov)/[**rpm-packages**](https://github.com/imankulov/rpm-packages)",
+              "Fresh specs for RHEL-based and RHED-derived distributions (CentOS, Amazon Linux AMI)",
+              ""
+            ],
+            [
+              "4",
+              "[@nunolourenco](https://github.com/nunolourenco)/[**Protein-Folding**](https://github.com/nunolourenco/Protein-Folding)",
+              "Evolutionary Computing Project",
+              ""
+            ],
+            [
+              "4",
+              "[@nmariz](https://github.com/nmariz)/[**restview**](https://github.com/nmariz/restview)",
+              "A Python module that makes it easy RESTful views in Django",
+              ""
+            ],
+            [
+              "4",
+              "[@imankulov](https://github.com/imankulov)/[**gsod**](https://github.com/imankulov/gsod)",
+              "Global Surface Summary of Day (GSOD) loader and parser",
+              ""
+            ],
+            [
+              "4",
+              "[@joaor](https://github.com/joaor)/[**pcompiler**](https://github.com/joaor/pcompiler)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@enen92](https://github.com/enen92)/[**service.pvrtools**](https://github.com/enen92/service.pvrtools)",
+              "A simple addon to extend kodi iptv simple pvr addon",
+              ""
+            ],
+            [
+              "3",
+              "[@imankulov](https://github.com/imankulov)/[**django-project-stub**](https://github.com/imankulov/django-project-stub)",
+              "my own simple stub for Django projects",
+              ""
+            ],
+            [
+              "3",
+              "[@crsantos](https://github.com/crsantos)/[**EmentaSasuc-PyMT**](https://github.com/crsantos/EmentaSasuc-PyMT)",
+              "A simple url image retriever of sasuc’s canteens menu into a MTKineticList  of MTKineticImage",
+              ""
+            ],
+            [
+              "3",
+              "[@enen92](https://github.com/enen92)/[**service.sleeptimer**](https://github.com/enen92/service.sleeptimer)",
+              "A Kodi addon to automatically stop any streams playing for more than the time you specify. Useful if you have the habit to fall asleep while watching live content",
+              ""
+            ],
+            [
+              "3",
+              "[@tnunes](https://github.com/tnunes)/[**becas-python**](https://github.com/tnunes/becas-python)",
+              "becas API client for Python.",
+              "[:arrow_upper_right:](http://tnunes.github.io/becas-python/)"
+            ],
+            [
+              "3",
+              "[@rcarmo](https://github.com/rcarmo)/[**AirVideo**](https://github.com/rcarmo/AirVideo)",
+              "Python port of jphastings' excellent Ruby AirVideo client, enhanced with further functionality",
+              "[:arrow_upper_right:](http://the.taoofmac.com)"
+            ],
+            [
+              "3",
+              "[@dgomes](https://github.com/dgomes)/[**imap2rss**](https://github.com/dgomes/imap2rss)",
+              "Make an IMAP folder available through a RSS interface",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**celery-watcher**](https://github.com/imankulov/celery-watcher)",
+              "Celery watcher application",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**sex-server**](https://github.com/imankulov/sex-server)",
+              "SSH Execution server. Best variant for very lightweight pythonic RPC implementation. ",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**sex-client**](https://github.com/imankulov/sex-client)",
+              "SSH Execution client. Best variant for very lightweight pythonic RPC implementation. ",
+              ""
+            ],
+            [
+              "2",
+              "[@lidiamcfreitas](https://github.com/lidiamcfreitas)/[**SimulatorPopulationP…**](https://github.com/lidiamcfreitas/SimulatorPopulationProtocols)",
+              "This project is a simulator of population protocols to test abstract and theoretical algorithms related to populations. ",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**autobuilder**](https://github.com/imankulov/autobuilder)",
+              "Automatically builds repo snapshots with git-buildpackage",
+              ""
+            ],
+            [
+              "2",
+              "[@marado](https://github.com/marado)/[**tweet_dumper**](https://github.com/marado/tweet_dumper)",
+              "A tool to retrieve all possible tweets from an user",
+              ""
+            ],
+            [
+              "2",
+              "[@marado](https://github.com/marado)/[**hattai-fortune**](https://github.com/marado/hattai-fortune)",
+              "Hattai's Fortune: a script that gives news",
+              ""
+            ],
+            [
+              "2",
+              "[@andrefreitas](https://github.com/andrefreitas)/[**rocketchat-nagios**](https://github.com/andrefreitas/rocketchat-nagios)",
+              "Sends Nagios notifications to Rocket.Chat, an Open Source Slack Alternative",
+              ""
+            ],
+            [
+              "2",
+              "[@andrefreitas](https://github.com/andrefreitas)/[**blacklist-serverdens…**](https://github.com/andrefreitas/blacklist-serverdensity-plugin)",
+              "This is a plugin for Server Density monitoring software to check if the Server IPs are in Email Blacklists",
+              ""
+            ],
+            [
+              "2",
+              "[@dpgaspar](https://github.com/dpgaspar)/[**flask-babelPkg**](https://github.com/dpgaspar/flask-babelPkg)",
+              "i18n and l10n support for Flask based on Babel and pytz. Support for package development, merging translations",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**trytry**](https://github.com/imankulov/trytry)",
+              "A framework for \"try-whatever\" web services",
+              ""
+            ],
+            [
+              "2",
+              "[@joaor](https://github.com/joaor)/[**Event_Semantic**](https://github.com/joaor/Event_Semantic)",
+              "Projecto da cadeira de Web Semantica",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**gevent-websocket**](https://github.com/imankulov/gevent-websocket)",
+              "Mirror of the bitbucket repo, made for the sake of building deb packages",
+              "[:arrow_upper_right:](https://bitbucket.org/Jeffrey/gevent-websocket)"
+            ],
+            [
+              "2",
+              "[@crsantos](https://github.com/crsantos)/[**Chameleon**](https://github.com/crsantos/Chameleon)",
+              "A chameleon' style feed reader",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**google-api**](https://github.com/imankulov/google-api)",
+              "Simple Django app demonstrating various usage scenarios of Google authentication mechanisms",
+              ""
+            ],
+            [
+              "2",
+              "[@rlafuente](https://github.com/rlafuente)/[**isocraft**](https://github.com/rlafuente/isocraft)",
+              "Make isometric vector art from Minecraft constructions",
+              ""
+            ],
+            [
+              "2",
+              "[@imankulov](https://github.com/imankulov)/[**django-template**](https://github.com/imankulov/django-template)",
+              "My own django template",
+              ""
+            ],
+            [
+              "2",
+              "[@rcarmo](https://github.com/rcarmo)/[**hyrule**](https://github.com/rcarmo/hyrule)",
+              "An improved REPL for HyLang",
+              ""
+            ],
+            [
+              "2",
+              "[@alcides](https://github.com/alcides)/[**pungi**](https://github.com/alcides/pungi)",
+              "Python microwebframework",
+              "[:arrow_upper_right:](http://wiki.alcidesfonseca.com)"
             ]
           ]
         }
