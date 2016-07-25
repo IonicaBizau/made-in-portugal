@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2391,6 +2392,81 @@
               "2",
               "[@joninvski](https://github.com/joninvski)/[**USB_Wifi_RT2501_TS-7…**](https://github.com/joninvski/USB_Wifi_RT2501_TS-7500)",
               "The source of the module for the rt2501 for the ts7500 arm device",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "666",
+              "[@SupSuper](https://github.com/SupSuper)/[**OpenXcom**](https://github.com/SupSuper/OpenXcom)",
+              "Open-source clone of the original X-Com",
+              "[:arrow_upper_right:](http://openxcom.org)"
+            ],
+            [
+              "28",
+              "[@GrimshawA](https://github.com/GrimshawA)/[**Nephilim**](https://github.com/GrimshawA/Nephilim)",
+              "C++ Game Engine",
+              ""
+            ],
+            [
+              "7",
+              "[@naps62](https://github.com/naps62)/[**parallel-sort**](https://github.com/naps62/parallel-sort)",
+              "Parallel sorting algorithm implementation in OpenMP and MPI",
+              ""
+            ],
+            [
+              "5",
+              "[@ferrolho](https://github.com/ferrolho)/[**feup-contests**](https://github.com/ferrolho/feup-contests)",
+              "A repository to host students resolutions of programming contest problems.",
+              ""
+            ],
+            [
+              "5",
+              "[@CAMBADA](https://github.com/CAMBADA)/[**cambada-pub**](https://github.com/CAMBADA/cambada-pub)",
+              "This is the public software git for the CAMBADA robot soccer team software releases",
+              ""
+            ],
+            [
+              "4",
+              "[@pspkzar](https://github.com/pspkzar)/[**OptiXRenderer**](https://github.com/pspkzar/OptiXRenderer)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@AfonsoTsukamoto](https://github.com/AfonsoTsukamoto)/[**frogger**](https://github.com/AfonsoTsukamoto/frogger)",
+              "The frogger game in OpenGL for academic purposes",
+              ""
+            ],
+            [
+              "2",
+              "[@DDuarte](https://github.com/DDuarte)/[**feup-blackjack**](https://github.com/DDuarte/feup-blackjack)",
+              "FEUP: Programming - EIC0012 - 2011/2012 - Blackjack C++ game, with Allegro",
+              ""
+            ],
+            [
+              "2",
+              "[@naps62](https://github.com/naps62)/[**barneshut-galois**](https://github.com/naps62/barneshut-galois)",
+              "A Barnes Hut implementation based on the Galois system",
+              ""
+            ],
+            [
+              "2",
+              "[@naps62](https://github.com/naps62)/[**papi-cuda**](https://github.com/naps62/papi-cuda)",
+              "A PAPI CUDA analysis using a pathtracer implementation",
               ""
             ]
           ]
