@@ -61,7 +61,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -4260,6 +4261,27 @@
               "[@webcracy](https://github.com/webcracy)/[**worldpay-html-redire…**](https://github.com/webcracy/worldpay-html-redirect)",
               "Helper and callback methods for integrating your Rails app with WorldPay's HTTP redirect payment gateway",
               "[:arrow_upper_right:](http://paulspringett.name)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@Molecular-Systems-Bi…](https://github.com/Molecular-Systems-Biology-Group)/[**LibjSBML**](https://github.com/Molecular-Systems-Biology-Group/LibjSBML)",
+              "JVM based implementation of LibSBML without any C++ dependecies.",
+              ""
             ]
           ]
         }
