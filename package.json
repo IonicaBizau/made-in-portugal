@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -2495,6 +2496,27 @@
               "2",
               "[@vmlf01](https://github.com/vmlf01)/[**CasparSystemTime**](https://github.com/vmlf01/CasparSystemTime)",
               "CasparCG System Time display component",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@bitmaker-software](https://github.com/bitmaker-software)/[**tomee-cli**](https://github.com/bitmaker-software/tomee-cli)",
+              "The fast way to configure Apache TomEE",
               ""
             ]
           ]
