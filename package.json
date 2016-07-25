@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -2558,6 +2559,63 @@
               "[@rusco](https://github.com/rusco)/[**rxjs**](https://github.com/rusco/rxjs)",
               "FRP versus Golang Channels comparison ",
               "[:arrow_upper_right:](http://rusco.github.io)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@ulisses](https://github.com/ulisses)/[**Static-Code-Analyzer**](https://github.com/ulisses/Static-Code-Analyzer)",
+              "The main goal of this project is to implement several software metrics to be able to classify software projects. We use as a test case a programming contest, where the participants send code to the system, and when the contest closes, the administrator (a teacher for example.) receives the code analysis report.",
+              "[:arrow_upper_right:](https://github.com/ulisses/Static-Code-Analyzer/wiki)"
+            ],
+            [
+              "3",
+              "[@ulisses](https://github.com/ulisses)/[**network-map-generato…**](https://github.com/ulisses/network-map-generator)",
+              "A complete network map generator. Generates a graph of dependencies services",
+              ""
+            ],
+            [
+              "3",
+              "[@ulisses](https://github.com/ulisses)/[**analyzer**](https://github.com/ulisses/analyzer)",
+              "Static Code Analyzer (command line program - Haskell sources)",
+              ""
+            ],
+            [
+              "3",
+              "[@ulisses](https://github.com/ulisses)/[**hhoneydstats**](https://github.com/ulisses/hhoneydstats)",
+              "Haskell honeydstats, statistics for Honeyd honeypot",
+              ""
+            ],
+            [
+              "2",
+              "[@ulisses](https://github.com/ulisses)/[**imperative-language-…**](https://github.com/ulisses/imperative-language-compiler)",
+              "A simple compiler made in Haskell to compile a simple language",
+              ""
+            ],
+            [
+              "2",
+              "[@ulisses](https://github.com/ulisses)/[**pointwise-pointfree-…**](https://github.com/ulisses/pointwise-pointfree-parcial-conversor)",
+              "A implementation of a pointwise-pointfree conversor in Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@ulisses](https://github.com/ulisses)/[**disk-catalogue**](https://github.com/ulisses/disk-catalogue)",
+              "Catalogue CD's DVD's and HD's",
+              ""
             ]
           ]
         }
