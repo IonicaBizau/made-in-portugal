@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -3035,6 +3036,303 @@
               "2",
               "[@melo](https://github.com/melo)/[**proc-daemontools-pp**](https://github.com/melo/proc-daemontools-pp)",
               "Proc::Daemontools::PP - Pure Perl interface to Daemontools services",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3321",
+              "[@filp](https://github.com/filp)/[**whoops**](https://github.com/filp/whoops)",
+              "PHP errors for cool kids ",
+              "[:arrow_upper_right:](http://filp.github.io/whoops/)"
+            ],
+            [
+              "227",
+              "[@gordalina](https://github.com/gordalina)/[**cachetool**](https://github.com/gordalina/cachetool)",
+              "CLI App and library to manage apc & opcache.",
+              "[:arrow_upper_right:](http://gordalina.github.io/cachetool/)"
+            ],
+            [
+              "44",
+              "[@filp](https://github.com/filp)/[**nod**](https://github.com/filp/nod)",
+              "Notifications in PHP (notify-send, growl, etc) like that.",
+              ""
+            ],
+            [
+              "39",
+              "[@mpmont](https://github.com/mpmont)/[**video_helper**](https://github.com/mpmont/video_helper)",
+              "A video Helper for codeigniter (to work with youtube and vimeo for now)",
+              ""
+            ],
+            [
+              "28",
+              "[@gordalina](https://github.com/gordalina)/[**sample-twitter-api-s…**](https://github.com/gordalina/sample-twitter-api-symfony2)",
+              "A Twitter REST API in Symfony2 to expose the capabilities of Symfony2 to develop REST APIs",
+              ""
+            ],
+            [
+              "27",
+              "[@ahilles107](https://github.com/ahilles107)/[**dashboard-widgets**](https://github.com/ahilles107/dashboard-widgets)",
+              "Dashboard Widgets system builded on top of Symfony components, Allow 3d party developer to build widets for your application dashboard. Each widgets can have controllers, views, entities, each widget must have repository and can be installed with Composer.",
+              ""
+            ],
+            [
+              "22",
+              "[@mpmont](https://github.com/mpmont)/[**thumb_helper**](https://github.com/mpmont/thumb_helper)",
+              "Thumb Helper for CodeIgniter",
+              ""
+            ],
+            [
+              "22",
+              "[@dcsg](https://github.com/dcsg)/[**ZCE-ExamPreparation**](https://github.com/dcsg/ZCE-ExamPreparation)",
+              "My PHP code to prepare myself for the ZCE exam",
+              ""
+            ],
+            [
+              "20",
+              "[@cossou](https://github.com/cossou)/[**trak-io-api**](https://github.com/cossou/trak-io-api)",
+              "Trak.io Api Client",
+              ""
+            ],
+            [
+              "20",
+              "[@jfloff](https://github.com/jfloff)/[**highroller-zf2**](https://github.com/jfloff/highroller-zf2)",
+              "HighRoller is an object-oriented PHP Wrapper for the Highcharts JavaScript Library. This is a HighRoller fork with new functionalities and ready for ZF2.",
+              ""
+            ],
+            [
+              "18",
+              "[@gordalina](https://github.com/gordalina)/[**CacheToolBundle**](https://github.com/gordalina/CacheToolBundle)",
+              "CacheTool Symfony2 Bundle",
+              ""
+            ],
+            [
+              "18",
+              "[@taviroquai](https://github.com/taviroquai)/[**MapIgniter**](https://github.com/taviroquai/MapIgniter)",
+              "MapIgniter is a GeoCMS based on Mapserver, PostGIS, OpenLayers and CodeIgniter.",
+              ""
+            ],
+            [
+              "16",
+              "[@filp](https://github.com/filp)/[**Markdown**](https://github.com/filp/Markdown)",
+              "A cleaned-up and improved version of Michel Fortin's Markdown_Parser",
+              ""
+            ],
+            [
+              "15",
+              "[@cossou](https://github.com/cossou)/[**laravel-eventcron**](https://github.com/cossou/laravel-eventcron)",
+              "Laravel EventCron Bundle",
+              ""
+            ],
+            [
+              "11",
+              "[@gordalina](https://github.com/gordalina)/[**easypay-php**](https://github.com/gordalina/easypay-php)",
+              "Lightweight library to communicate with easypay.pt API in PHP 5.3",
+              ""
+            ],
+            [
+              "11",
+              "[@NewEraCracker](https://github.com/NewEraCracker)/[**php-work**](https://github.com/NewEraCracker/php-work)",
+              "Some random php work I've been doing. Feel free to explore and reuse :)",
+              ""
+            ],
+            [
+              "8",
+              "[@filp](https://github.com/filp)/[**dirp**](https://github.com/filp/dirp)",
+              "php5 directory indexing interface and framework",
+              ""
+            ],
+            [
+              "8",
+              "[@mpmont](https://github.com/mpmont)/[**bugtracker**](https://github.com/mpmont/bugtracker)",
+              "A bug tracker system based in CodeIgniter",
+              ""
+            ],
+            [
+              "8",
+              "[@taviroquai](https://github.com/taviroquai)/[**duality**](https://github.com/taviroquai/duality)",
+              "Micro PHP Framework",
+              ""
+            ],
+            [
+              "7",
+              "[@gordalina](https://github.com/gordalina)/[**GordalinaMixpanelBun…**](https://github.com/gordalina/GordalinaMixpanelBundle)",
+              "Symfony bundle for Mixpanel",
+              ""
+            ],
+            [
+              "7",
+              "[@cossou](https://github.com/cossou)/[**CodeIgniter-Airbrake**](https://github.com/cossou/CodeIgniter-Airbrake)",
+              "CodeIgniter Library for Airbrake",
+              ""
+            ],
+            [
+              "6",
+              "[@taviroquai](https://github.com/taviroquai)/[**laraproto**](https://github.com/taviroquai/laraproto)",
+              "Laravel website prototype with backoffice for content and users management",
+              ""
+            ],
+            [
+              "6",
+              "[@taviroquai](https://github.com/taviroquai)/[**BootWiki**](https://github.com/taviroquai/BootWiki)",
+              "A php Wiki built upon Twitter Bootstrap, RedBeanPHP and Slim Framework",
+              "[:arrow_upper_right:](http://marcoafonso.pt/tests/bootwiki/)"
+            ],
+            [
+              "6",
+              "[@mpmont](https://github.com/mpmont)/[**CI-Developers-Toolba…**](https://github.com/mpmont/CI-Developers-Toolbar)",
+              "The CI Developer's Toolbar is a replica of CI Profiler Library with additional functionality in order to help development teams with debugging and optimization.",
+              ""
+            ],
+            [
+              "5",
+              "[@filp](https://github.com/filp)/[**wayne**](https://github.com/filp/wayne)",
+              "Laravel4 Debug Toolbar",
+              ""
+            ],
+            [
+              "5",
+              "[@taviroquai](https://github.com/taviroquai)/[**Laravel-Mapserver**](https://github.com/taviroquai/Laravel-Mapserver)",
+              "Mapserver package for Laravel",
+              ""
+            ],
+            [
+              "5",
+              "[@gordalina](https://github.com/gordalina)/[**MangopayBundle**](https://github.com/gordalina/MangopayBundle)",
+              "Symfony2 bundle to integrate Mangopay",
+              ""
+            ],
+            [
+              "5",
+              "[@dcsg](https://github.com/dcsg)/[**EventbriteApiConnect…**](https://github.com/dcsg/EventbriteApiConnector)",
+              "Eventbrite Api Connector is a lightweight PHP 5.3 library for issuing the Eventbrite API.",
+              ""
+            ],
+            [
+              "5",
+              "[@gordalina](https://github.com/gordalina)/[**hipay-wallet**](https://github.com/gordalina/hipay-wallet)",
+              "Official hipay wallet SDK as a composer package",
+              ""
+            ],
+            [
+              "4",
+              "[@gordalina](https://github.com/gordalina)/[**mangopay-php**](https://github.com/gordalina/mangopay-php)",
+              "PHP library to communicate with mangopay.com API",
+              ""
+            ],
+            [
+              "4",
+              "[@gordalina](https://github.com/gordalina)/[**EasypayBundle**](https://github.com/gordalina/EasypayBundle)",
+              "EasypayBundle for the Symfony Framework",
+              ""
+            ],
+            [
+              "4",
+              "[@filp](https://github.com/filp)/[**silex-chisel**](https://github.com/filp/silex-chisel)",
+              "An opinionated silex project accelerator",
+              ""
+            ],
+            [
+              "4",
+              "[@ahilles107](https://github.com/ahilles107)/[**PersonaBundle**](https://github.com/ahilles107/PersonaBundle)",
+              "Bundle for authentication with Mozilla Persona in Symfony2",
+              ""
+            ],
+            [
+              "4",
+              "[@filp](https://github.com/filp)/[**Spy**](https://github.com/filp/Spy)",
+              "Spy is a simple, flexible and easy to extend dependency injection container.",
+              ""
+            ],
+            [
+              "3",
+              "[@ahilles107](https://github.com/ahilles107)/[**content-performance-…**](https://github.com/ahilles107/content-performance-analytics)",
+              "Newsroom Content Analytics for journalists and editors.",
+              ""
+            ],
+            [
+              "3",
+              "[@NewEraCracker](https://github.com/NewEraCracker)/[**IPB3LinkBot**](https://github.com/NewEraCracker/IPB3LinkBot)",
+              "An attempt to develop a working linkchecker bot for IP.Board 3.1+ (UNSTABLE - DO NOT USE IN PRODUCTION)",
+              ""
+            ],
+            [
+              "2",
+              "[@filp](https://github.com/filp)/[**gimme**](https://github.com/filp/gimme)",
+              "Inject your services with *magic*",
+              ""
+            ],
+            [
+              "2",
+              "[@nunomorgadinho](https://github.com/nunomorgadinho)/[**plugin-propagator**](https://github.com/nunomorgadinho/plugin-propagator)",
+              "A plugin propagator",
+              ""
+            ],
+            [
+              "2",
+              "[@nunomorgadinho](https://github.com/nunomorgadinho)/[**AMMPro**](https://github.com/nunomorgadinho/AMMPro)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@andr3pt](https://github.com/andr3pt)/[**ma.gnolia-de.fibrill…**](https://github.com/andr3pt/ma.gnolia-de.fibrillator)",
+              "This is a tiny script (spaghetti code!) that I used to recover a couple of my bookmarks from Google Historical Feed API ",
+              "[:arrow_upper_right:](http://andr3.net/)"
+            ],
+            [
+              "2",
+              "[@filp](https://github.com/filp)/[**turnip**](https://github.com/filp/turnip)",
+              "A small php-5.3 framework cleverly disguised as a turnip.",
+              ""
+            ],
+            [
+              "2",
+              "[@dcsg](https://github.com/dcsg)/[**symfonycon-how-to-bu…**](https://github.com/dcsg/symfonycon-how-to-build-console-apps)",
+              "Source code of my talk at SymfonyCon 2013 about How to build Console applications",
+              ""
+            ],
+            [
+              "2",
+              "[@gmmcal](https://github.com/gmmcal)/[**wpht**](https://github.com/gmmcal/wpht)",
+              "Hand Talk for Wordpress",
+              ""
+            ],
+            [
+              "2",
+              "[@ahilles107](https://github.com/ahilles107)/[**dashboard-widgets-da…**](https://github.com/ahilles107/dashboard-widgets-dashboard)",
+              "Sample working dashboard for dashboard-widgets system. See Dashboard Widgets in action. ",
+              ""
+            ],
+            [
+              "2",
+              "[@filp](https://github.com/filp)/[**roast**](https://github.com/filp/roast)",
+              "lightweight php5.3 api framework",
+              ""
+            ],
+            [
+              "2",
+              "[@gordalina](https://github.com/gordalina)/[**IfmbBundle**](https://github.com/gordalina/IfmbBundle)",
+              "Ifthensoftware IFmb integration into Symfony2",
+              ""
+            ],
+            [
+              "2",
+              "[@luciano-jr](https://github.com/luciano-jr)/[**beerAI**](https://github.com/luciano-jr/beerAI)",
+              "A simple project to does specialist system AI",
               ""
             ]
           ]
