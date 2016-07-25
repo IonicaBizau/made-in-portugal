@@ -64,7 +64,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -4385,6 +4386,33 @@
               "8",
               "[@psalterio](https://github.com/psalterio)/[**repository**](https://github.com/psalterio/repository)",
               "musicas do psalterio",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@lmartinho](https://github.com/lmartinho)/[**dotfiles**](https://github.com/lmartinho/dotfiles)",
+              "My Settings Files",
+              ""
+            ],
+            [
+              "2",
+              "[@morgado-jb](https://github.com/morgado-jb)/[**vim-pine-script**](https://github.com/morgado-jb/vim-pine-script)",
+              "Vim support to edit TradingView's Pine Script files",
               ""
             ]
           ]
