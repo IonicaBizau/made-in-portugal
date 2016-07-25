@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -2649,6 +2650,99 @@
               "2",
               "[@MrTheSoulz](https://github.com/MrTheSoulz)/[**NerdPack-MTS_Routine…**](https://github.com/MrTheSoulz/NerdPack-MTS_Routines)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "685",
+              "[@hsousa](https://github.com/hsousa)/[**HCSStarRatingView**](https://github.com/hsousa/HCSStarRatingView)",
+              "Simple star rating view for iOS written in Objective-C",
+              ""
+            ],
+            [
+              "89",
+              "[@mluisbrown](https://github.com/mluisbrown)/[**LCZoomTransition**](https://github.com/mluisbrown/LCZoomTransition)",
+              "A UIViewController custom animated and interactive transition that uses a delightful zoom animation.",
+              ""
+            ],
+            [
+              "79",
+              "[@schmitzoide](https://github.com/schmitzoide)/[**MSMotionScroller**](https://github.com/schmitzoide/MSMotionScroller)",
+              "A simple class that enables anything that can be scrolled to be scrolled by bumping the device in a certain direction.",
+              ""
+            ],
+            [
+              "31",
+              "[@pedrovieira7](https://github.com/pedrovieira7)/[**PVAsyncImageView**](https://github.com/pedrovieira7/PVAsyncImageView)",
+              "A simple NSImageView subclass that let's you download images asynchronously from the web on the Mac with some other useful properties.",
+              "[:arrow_upper_right:](http://pedrovieira.me/)"
+            ],
+            [
+              "13",
+              "[@pedrovieira7](https://github.com/pedrovieira7)/[**DaVinci**](https://github.com/pedrovieira7/DaVinci)",
+              "A small library that generates a PNG image with a message inside it.",
+              "[:arrow_upper_right:](http://pedrovieira.me)"
+            ],
+            [
+              "6",
+              "[@nunojfg](https://github.com/nunojfg)/[**NGUtilities**](https://github.com/nunojfg/NGUtilities)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@edualm](https://github.com/edualm)/[**StoreSizer**](https://github.com/edualm/StoreSizer)",
+              "Resize the AppStore 512*512 PNG to Normal, Retina and iPad Icons!",
+              "[:arrow_upper_right:](http://itunes.apple.com/us/app/storesizer/id408263303?mt=12)"
+            ],
+            [
+              "5",
+              "[@edualm](https://github.com/edualm)/[**LowBattery**](https://github.com/edualm/LowBattery)",
+              "A local push notifications iOS example",
+              ""
+            ],
+            [
+              "4",
+              "[@edualm](https://github.com/edualm)/[**EMLX-Parser**](https://github.com/edualm/EMLX-Parser)",
+              "Parse Mail.app EMLX files the easy way!",
+              ""
+            ],
+            [
+              "3",
+              "[@jpedroso](https://github.com/jpedroso)/[**higherorderkit**](https://github.com/jpedroso/higherorderkit)",
+              "Higher order functions for Cocoa collections, using Objective-C blocks.",
+              ""
+            ],
+            [
+              "3",
+              "[@edualm](https://github.com/edualm)/[**iHelpers**](https://github.com/edualm/iHelpers)",
+              "iHelpers is a set of classes designed to help you develop Cocoa Touch apps.",
+              ""
+            ],
+            [
+              "3",
+              "[@edualm](https://github.com/edualm)/[**SendGrid-Emailer**](https://github.com/edualm/SendGrid-Emailer)",
+              "Cocoa API for sending e-mails using SendGrid.",
+              ""
+            ],
+            [
+              "2",
+              "[@rizo](https://github.com/rizo)/[**CATextLayerLab**](https://github.com/rizo/CATextLayerLab)",
+              "A simple example demonstrating CoreAnimation text layer features.",
               ""
             ]
           ]
