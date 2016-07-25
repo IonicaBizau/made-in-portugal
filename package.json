@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -2615,6 +2616,39 @@
               "2",
               "[@ulisses](https://github.com/ulisses)/[**disk-catalogue**](https://github.com/ulisses/disk-catalogue)",
               "Catalogue CD's DVD's and HD's",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@MrTheSoulz](https://github.com/MrTheSoulz)/[**NerdPack**](https://github.com/MrTheSoulz/NerdPack)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@ChicoRDL](https://github.com/ChicoRDL)/[**-GTi-RPG-V3-**](https://github.com/ChicoRDL/-GTi-RPG-V3-)",
+              "Grand Theft International RPG - Official Open Source",
+              ""
+            ],
+            [
+              "2",
+              "[@MrTheSoulz](https://github.com/MrTheSoulz)/[**NerdPack-MTS_Routine…**](https://github.com/MrTheSoulz/NerdPack-MTS_Routines)",
+              "",
               ""
             ]
           ]
