@@ -60,7 +60,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -3740,6 +3741,525 @@
               "[@alcides](https://github.com/alcides)/[**pungi**](https://github.com/alcides/pungi)",
               "Python microwebframework",
               "[:arrow_upper_right:](http://wiki.alcidesfonseca.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "455",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**acts_as_paranoid**](https://github.com/goncalossilva/acts_as_paranoid)",
+              "ActiveRecord (>=3.0) plugin which allows you to hide and restore records without actually deleting them.",
+              ""
+            ],
+            [
+              "332",
+              "[@methodmissing](https://github.com/methodmissing)/[**scrooge**](https://github.com/methodmissing/scrooge)",
+              "Fetch exactly what you need",
+              ""
+            ],
+            [
+              "168",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**twitter-amqp-websock…**](https://github.com/rubenfonseca/twitter-amqp-websocket-example)",
+              "Simple example of Twitter + AMQP + RabbitMQ + EventMachine + HTML5 WebSocket with no polling",
+              "[:arrow_upper_right:](http://blog.0x82.com/2009/12/28/twitter-amqp-websocket-example-no-polling)"
+            ],
+            [
+              "61",
+              "[@methodmissing](https://github.com/methodmissing)/[**mysqlplus_adapter**](https://github.com/methodmissing/mysqlplus_adapter)",
+              "",
+              ""
+            ],
+            [
+              "53",
+              "[@rfelix](https://github.com/rfelix)/[**my_jekyll_extensions**](https://github.com/rfelix/my_jekyll_extensions)",
+              "Portable Jekyll extensions I use for my website (to be used with jekyll_ext)",
+              "[:arrow_upper_right:](http://rfelix.com/2010/01/19/jekyll-extensions-minus-equal-pain/)"
+            ],
+            [
+              "49",
+              "[@rfelix](https://github.com/rfelix)/[**jekyll_ext**](https://github.com/rfelix/jekyll_ext)",
+              "My attempt to make Jekyll more extendable and to make extensions portable",
+              "[:arrow_upper_right:](http://rfelix.com/2010/01/19/jekyll-extensions-minus-equal-pain/)"
+            ],
+            [
+              "45",
+              "[@webcracy](https://github.com/webcracy)/[**activity_streams**](https://github.com/webcracy/activity_streams)",
+              "Ruby Activity Streams Parser",
+              "[:arrow_upper_right:](http://0x82.com)"
+            ],
+            [
+              "43",
+              "[@methodmissing](https://github.com/methodmissing)/[**mri_instrumentation**](https://github.com/methodmissing/mri_instrumentation)",
+              "dtrace pid provider hooks for mri",
+              ""
+            ],
+            [
+              "41",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**gem_template**](https://github.com/goncalossilva/gem_template)",
+              "A skeleton gem",
+              ""
+            ],
+            [
+              "35",
+              "[@methodmissing](https://github.com/methodmissing)/[**hwia**](https://github.com/methodmissing/hwia)",
+              "Native MRI HashWithIndifferentAccess implementation",
+              "[:arrow_upper_right:](http://blog.methodmssing.com)"
+            ],
+            [
+              "31",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**motion-bt-low-energy…**](https://github.com/rubenfonseca/motion-bt-low-energy-example)",
+              "Simple example of using Bluetooth LE with RubyMotion to connect to a Heart Rate monitor",
+              ""
+            ],
+            [
+              "30",
+              "[@rikas](https://github.com/rikas)/[**slack-poster**](https://github.com/rikas/slack-poster)",
+              "Simple gem to post messages on Slack using web hooks.",
+              ""
+            ],
+            [
+              "27",
+              "[@methodmissing](https://github.com/methodmissing)/[**aftermath**](https://github.com/methodmissing/aftermath)",
+              "An example CQRS implementation in the Ruby language",
+              "[:arrow_upper_right:](http://github.com/methodmissing/aftermath)"
+            ],
+            [
+              "24",
+              "[@david](https://github.com/david)/[**merb_cucumber**](https://github.com/david/merb_cucumber)",
+              "Merb + Cucumber integration",
+              ""
+            ],
+            [
+              "22",
+              "[@webcracy](https://github.com/webcracy)/[**motion-sparkle**](https://github.com/webcracy/motion-sparkle)",
+              "motion-sparkle makes it easy to use Sparkle in your RubyMotion OS X apps",
+              ""
+            ],
+            [
+              "21",
+              "[@sdsantos](https://github.com/sdsantos)/[**sinatra-mongoid-app**](https://github.com/sdsantos/sinatra-mongoid-app)",
+              "A template application for setting up Sinatra with Mongoid (Heroku ready).",
+              ""
+            ],
+            [
+              "20",
+              "[@methodmissing](https://github.com/methodmissing)/[**cb**](https://github.com/methodmissing/cb)",
+              "Native MRI callback",
+              "[:arrow_upper_right:](http://blog.methodmissing.com)"
+            ],
+            [
+              "19",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**mongoid-sequence**](https://github.com/goncalossilva/mongoid-sequence)",
+              "Specify fields to behave like a sequence number (exactly like the \"id\" column in conventional SQL flavors) while using Mongoid.",
+              ""
+            ],
+            [
+              "16",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**XAccelRedirect**](https://github.com/goncalossilva/XAccelRedirect)",
+              "A Ruby on Rails plugin for X-Accel-Redirect support (the nginx equivalent of X-Sendfile)",
+              ""
+            ],
+            [
+              "15",
+              "[@locks](https://github.com/locks)/[**halibut**](https://github.com/locks/halibut)",
+              "tools to handle the HAL specification",
+              "[:arrow_upper_right:](http://locks.github.com/halibut)"
+            ],
+            [
+              "14",
+              "[@methodmissing](https://github.com/methodmissing)/[**promise**](https://github.com/methodmissing/promise)",
+              "Lightweight Ruby MRI promise extension",
+              "[:arrow_upper_right:](http://blog.methodmissing.com)"
+            ],
+            [
+              "14",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**alfred2-android_sdk_…**](https://github.com/goncalossilva/alfred2-android_sdk_reference_search-workflow)",
+              "Alfred workflow for searching the Android SDK class and XML references.",
+              ""
+            ],
+            [
+              "13",
+              "[@guilhermesimoes](https://github.com/guilhermesimoes)/[**omniauth-popup**](https://github.com/guilhermesimoes/omniauth-popup)",
+              "Pure OmniAuth login with a popup window",
+              "[:arrow_upper_right:](http://omniauth-popup.herokuapp.com/)"
+            ],
+            [
+              "12",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**dummy**](https://github.com/goncalossilva/dummy)",
+              "A Ruby library to generate clever dummy data.",
+              ""
+            ],
+            [
+              "12",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**dummy_data**](https://github.com/goncalossilva/dummy_data)",
+              "Uses dummy to generate consistent fake data for your models (including associations) and provides a rake task to import it into the database.",
+              ""
+            ],
+            [
+              "11",
+              "[@rfelix](https://github.com/rfelix)/[**hostgitrb**](https://github.com/rfelix/hostgitrb)",
+              "Simple Git repository hosting using SSH Public Keys",
+              "[:arrow_upper_right:](rfelix.com/2010/04/06/git-repo-hosting-via-ssh)"
+            ],
+            [
+              "11",
+              "[@methodmissing](https://github.com/methodmissing)/[**routing_with_optiona…**](https://github.com/methodmissing/routing_with_optional_formats)",
+              "Selectively enable or disable formatted named routes being generated",
+              ""
+            ],
+            [
+              "10",
+              "[@rikas](https://github.com/rikas)/[**iosdevices**](https://github.com/rikas/iosdevices)",
+              "iOS device model translation from Apple device types.",
+              ""
+            ],
+            [
+              "10",
+              "[@methodmissing](https://github.com/methodmissing)/[**memcached_store**](https://github.com/methodmissing/memcached_store)",
+              "ActiveSupport Cache Store for http://github.com/fauna/memcached/tree/m… ",
+              ""
+            ],
+            [
+              "9",
+              "[@zamith](https://github.com/zamith)/[**github-nice-guy**](https://github.com/zamith/github-nice-guy)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@diogomonica](https://github.com/diogomonica)/[**sinatra_geoip**](https://github.com/diogomonica/sinatra_geoip)",
+              "Simple IP Geolocation endpoint deployable to heroku",
+              ""
+            ],
+            [
+              "8",
+              "[@methodmissing](https://github.com/methodmissing)/[**erubis_template_hand…**](https://github.com/methodmissing/erubis_template_handler)",
+              "Rails 2.3 / Edge template handler for erubis ( http://www.kuwata-lab.com/erubis/ )",
+              ""
+            ],
+            [
+              "7",
+              "[@rikas](https://github.com/rikas)/[**ios_on_rails**](https://github.com/rikas/ios_on_rails)",
+              "iOS on Rails workshop",
+              ""
+            ],
+            [
+              "7",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**rails_performance_ci**](https://github.com/goncalossilva/rails_performance_ci)",
+              "Rails application for a performance-oriented continuous integration of Ruby on Rails",
+              ""
+            ],
+            [
+              "7",
+              "[@zamith](https://github.com/zamith)/[**mechanic**](https://github.com/zamith/mechanic)",
+              "Makes your engines better.",
+              ""
+            ],
+            [
+              "7",
+              "[@josemotanet](https://github.com/josemotanet)/[**rest-apis-with-grape**](https://github.com/josemotanet/rest-apis-with-grape)",
+              "Sample file uploader application using Grape, Sequel and Carrierwave.",
+              ""
+            ],
+            [
+              "7",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**tarpipe-ruby**](https://github.com/rubenfonseca/tarpipe-ruby)",
+              "Ruby bridge to tarpipe.com's REST API",
+              "[:arrow_upper_right:](http://tarpipe.rubyforge.org)"
+            ],
+            [
+              "7",
+              "[@webcracy](https://github.com/webcracy)/[**computerbot**](https://github.com/webcracy/computerbot)",
+              "A Ruby XMPP framework for modular bot creation; a CLI to your social cloud data.",
+              "[:arrow_upper_right:](http://computer.webcracy.org/)"
+            ],
+            [
+              "7",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**Scaling-Rails**](https://github.com/goncalossilva/Scaling-Rails)",
+              "Master thesis about Rails scalability and performance optimization",
+              "[:arrow_upper_right:](http://snaprails.tumblr.com)"
+            ],
+            [
+              "7",
+              "[@webcracy](https://github.com/webcracy)/[**computer-bot--twitte…**](https://github.com/webcracy/computer-bot--twitter-edition)",
+              "A full-featured Twitter IM bot using the Computer bot framework.",
+              "[:arrow_upper_right:](http://computer.webcracy.org/twitteredition)"
+            ],
+            [
+              "6",
+              "[@josemotanet](https://github.com/josemotanet)/[**rails_store_with_bra…**](https://github.com/josemotanet/rails_store_with_braintree)",
+              "Source code for the Tuts+ course: Build a Store with Payment Gateway and Rails.",
+              ""
+            ],
+            [
+              "6",
+              "[@rfelix](https://github.com/rfelix)/[**iwannareadit**](https://github.com/rfelix/iwannareadit)",
+              "Web app to manage book suggestions, voting, and lending",
+              "[:arrow_upper_right:](http://iwannareadit.heroku.com)"
+            ],
+            [
+              "6",
+              "[@diogomonica](https://github.com/diogomonica)/[**urbanspooner**](https://github.com/diogomonica/urbanspooner)",
+              "Urban Spoon Reservation Bot",
+              ""
+            ],
+            [
+              "6",
+              "[@dnlserrano](https://github.com/dnlserrano)/[**simple_authenticatio…**](https://github.com/dnlserrano/simple_authentication_token_sample_app)",
+              "Simple greetings app to showcase the use of the simple_authentication_token gem",
+              ""
+            ],
+            [
+              "5",
+              "[@methodmissing](https://github.com/methodmissing)/[**railswaycon_imr_shor…**](https://github.com/methodmissing/railswaycon_imr_shorttalk)",
+              "Inside Matz Ruby lightning type talk",
+              "[:arrow_upper_right:](http://www.railswaycon.com)"
+            ],
+            [
+              "5",
+              "[@methodmissing](https://github.com/methodmissing)/[**rb_darkstar_server**](https://github.com/methodmissing/rb_darkstar_server)",
+              "JRuby wrapper for the Project Darkstar Server component",
+              "[:arrow_upper_right:](http://www.projectdarkstar.com)"
+            ],
+            [
+              "4",
+              "[@dnlserrano](https://github.com/dnlserrano)/[**mongoid-bigbang**](https://github.com/dnlserrano/mongoid-bigbang)",
+              "Mock creation timestamps of MongoDB objects using their ObjectId",
+              ""
+            ],
+            [
+              "4",
+              "[@rikas](https://github.com/rikas)/[**portuguese_validator…**](https://github.com/rikas/portuguese_validators)",
+              "This is a simple gem to validate NIB, NIF, BI and phone numbers.",
+              ""
+            ],
+            [
+              "4",
+              "[@zamith](https://github.com/zamith)/[**cohive-core**](https://github.com/zamith/cohive-core)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@jsvd](https://github.com/jsvd)/[**blackboard**](https://github.com/jsvd/blackboard)",
+              "a layer over moneta for hierarchical storage",
+              ""
+            ],
+            [
+              "4",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**sinatra-capistrano-w…**](https://github.com/rubenfonseca/sinatra-capistrano-workshop)",
+              "Code written during the Sinatra and Capistrano workshop at 06/03/2009, in Lisbon",
+              "[:arrow_upper_right:](http://startu.tumblr.com/post/83200299/mini-workshop-sinatra-e-capistrano)"
+            ],
+            [
+              "4",
+              "[@methodmissing](https://github.com/methodmissing)/[**railswaycon_events**](https://github.com/methodmissing/railswaycon_events)",
+              "Embracing Events",
+              "[:arrow_upper_right:](http://www.railswaycon.com)"
+            ],
+            [
+              "4",
+              "[@brunohq](https://github.com/brunohq)/[**go2dir**](https://github.com/brunohq/go2dir)",
+              "go2dir is a shorcut manager to speed up your command line cding",
+              ""
+            ],
+            [
+              "3",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**musicbox**](https://github.com/rubenfonseca/musicbox)",
+              "workshop and fun experiment to access SAPO's MusicBox service as an API",
+              "[:arrow_upper_right:](http://musicbox.sapo.pt)"
+            ],
+            [
+              "3",
+              "[@jsvd](https://github.com/jsvd)/[**bank-stats**](https://github.com/jsvd/bank-stats)",
+              "Collect data of last bank transactions, tag them and represent them.",
+              ""
+            ],
+            [
+              "3",
+              "[@david](https://github.com/david)/[**dm-is-revisioned**](https://github.com/david/dm-is-revisioned)",
+              "DataMapper versioning plugin which is a bit more flexible than dm-is-versioned",
+              ""
+            ],
+            [
+              "3",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**whitme**](https://github.com/rubenfonseca/whitme)",
+              "Ruby library for the URL shortener service whit.me",
+              "[:arrow_upper_right:](http://www.whit.me/api/docs)"
+            ],
+            [
+              "3",
+              "[@dnlserrano](https://github.com/dnlserrano)/[**token_auth_sample_ap…**](https://github.com/dnlserrano/token_auth_sample_app)",
+              "An alternative to using the simple_authentication_token gem",
+              ""
+            ],
+            [
+              "3",
+              "[@guilhermesimoes](https://github.com/guilhermesimoes)/[**rails_alacarte_serve…**](https://github.com/guilhermesimoes/rails_alacarte_server)",
+              "Rails API for mobile applications.",
+              ""
+            ],
+            [
+              "3",
+              "[@josemotanet](https://github.com/josemotanet)/[**ruby-refactoring**](https://github.com/josemotanet/ruby-refactoring)",
+              "Refactoring examples in Ruby.",
+              ""
+            ],
+            [
+              "3",
+              "[@fredoliveira](https://github.com/fredoliveira)/[**taskbot**](https://github.com/fredoliveira/taskbot)",
+              "Taskbot is a xmpp/redis-based tasklist management bot",
+              ""
+            ],
+            [
+              "3",
+              "[@rikas](https://github.com/rikas)/[**deeplink**](https://github.com/rikas/deeplink)",
+              "Gem to manage deep links parsing.",
+              ""
+            ],
+            [
+              "3",
+              "[@rikas](https://github.com/rikas)/[**app_store_info**](https://github.com/rikas/app_store_info)",
+              "Apple App Store parser — Get information about iOS apps",
+              ""
+            ],
+            [
+              "3",
+              "[@methodmissing](https://github.com/methodmissing)/[**stable_session_id**](https://github.com/methodmissing/stable_session_id)",
+              "Stable Session Identifier support for Cookie Session Store",
+              ""
+            ],
+            [
+              "2",
+              "[@rikas](https://github.com/rikas)/[**enei**](https://github.com/rikas/enei)",
+              "Workshop ENEI 2004",
+              ""
+            ],
+            [
+              "2",
+              "[@guilhermesimoes](https://github.com/guilhermesimoes)/[**chrome-bug**](https://github.com/guilhermesimoes/chrome-bug)",
+              "A bug caused by a browser's aggressive caching and a Vary header not being sent",
+              "[:arrow_upper_right:](http://secret-journey-4942.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@zamith](https://github.com/zamith)/[**fake-paymill**](https://github.com/zamith/fake-paymill)",
+              "A Paymill fake so that you can avoid hitting Paymill's servers in tests",
+              ""
+            ],
+            [
+              "2",
+              "[@zamith](https://github.com/zamith)/[**Cloudinha-Lock-Manag…**](https://github.com/zamith/Cloudinha-Lock-Manager)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@david](https://github.com/david)/[**logbot**](https://github.com/david/logbot)",
+              "A logging bot for IRC",
+              ""
+            ],
+            [
+              "2",
+              "[@webcracy](https://github.com/webcracy)/[**shift2010_twitter_ar…**](https://github.com/webcracy/shift2010_twitter_archive)",
+              "SHiFT Conf 2010 Twitter buzz archive",
+              "[:arrow_upper_right:](http://2010.shift.pt)"
+            ],
+            [
+              "2",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**twitter_auth-with-co…**](https://github.com/rubenfonseca/twitter_auth-with-couchdb)",
+              "Twitter Auth, CouchDB flavor",
+              ""
+            ],
+            [
+              "2",
+              "[@jsvd](https://github.com/jsvd)/[**logstash-filter-geoc…**](https://github.com/jsvd/logstash-filter-geocoder)",
+              "Logstash filter that converts strings (addresses) into coordinates using geocoder gem",
+              ""
+            ],
+            [
+              "2",
+              "[@jsvd](https://github.com/jsvd)/[**sequel_vectorized**](https://github.com/jsvd/sequel_vectorized)",
+              "Allows Sequel::Dataset to be exported as an Hash of Arrays and NArrays (http://narray.rubyforge.org)",
+              ""
+            ],
+            [
+              "2",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**puny**](https://github.com/rubenfonseca/puny)",
+              "Ruby library for the URL shortener service created by SAPO",
+              "[:arrow_upper_right:](http://services.sapo.pt/Metadata/Service/PunyURL?culture=EN)"
+            ],
+            [
+              "2",
+              "[@locks](https://github.com/locks)/[**arqsi-soap-client**](https://github.com/locks/arqsi-soap-client)",
+              "cliente soap para o trabalho prático de ARQSI",
+              "[:arrow_upper_right:](https://github.com/locks/arqsi-soap-client)"
+            ],
+            [
+              "2",
+              "[@rubenfonseca](https://github.com/rubenfonseca)/[**newzbin_xmpp**](https://github.com/rubenfonseca/newzbin_xmpp)",
+              "Ruby XMPP agent to search the newzbin.com website",
+              "[:arrow_upper_right:](http://www.newzbin.com)"
+            ],
+            [
+              "2",
+              "[@locks](https://github.com/locks)/[**silliness**](https://github.com/locks/silliness)",
+              "random silliness",
+              "[:arrow_upper_right:](http://vimeo.com/19193286)"
+            ],
+            [
+              "2",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**deep_copy**](https://github.com/goncalossilva/deep_copy)",
+              "Deep copy for Active Record objects",
+              ""
+            ],
+            [
+              "2",
+              "[@locks](https://github.com/locks)/[**project_euler**](https://github.com/locks/project_euler)",
+              "yeah, I'll make some stuff as I go along",
+              "[:arrow_upper_right:](http://projecteuler.net/index.php?section=profile&profile=locks)"
+            ],
+            [
+              "2",
+              "[@josemotanet](https://github.com/josemotanet)/[**tutsplus-dockerapp**](https://github.com/josemotanet/tutsplus-dockerapp)",
+              "Source code for the \"Deploy a Rails Application with Docker\" course.",
+              ""
+            ],
+            [
+              "2",
+              "[@goncalossilva](https://github.com/goncalossilva)/[**code2gist**](https://github.com/goncalossilva/code2gist)",
+              "Parse text files (markdown/textile/whatever) for code blocks and gist them",
+              ""
+            ],
+            [
+              "2",
+              "[@david](https://github.com/david)/[**logbot-www**](https://github.com/david/logbot-www)",
+              "This is the web interface to logbot",
+              ""
+            ],
+            [
+              "2",
+              "[@methodmissing](https://github.com/methodmissing)/[**cast**](https://github.com/methodmissing/cast)",
+              "Fork of cast.rubyforge.org - current pending tracker items",
+              "[:arrow_upper_right:](http://cast.rubyforge.org)"
+            ],
+            [
+              "2",
+              "[@webcracy](https://github.com/webcracy)/[**worldpay-html-redire…**](https://github.com/webcracy/worldpay-html-redirect)",
+              "Helper and callback methods for integrating your Rails app with WorldPay's HTTP redirect payment gateway",
+              "[:arrow_upper_right:](http://paulspringett.name)"
             ]
           ]
         }
