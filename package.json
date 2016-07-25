@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1905,6 +1906,183 @@
               "2",
               "[@Vazkii](https://github.com/Vazkii)/[**CraftingCreation**](https://github.com/Vazkii/CraftingCreation)",
               "My Entry for Searge's ModJam.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "66",
+              "[@rjperes](https://github.com/rjperes)/[**Postal.NET**](https://github.com/rjperes/Postal.NET)",
+              "Postal.NET",
+              ""
+            ],
+            [
+              "20",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**NotificationHubs**](https://github.com/saramgsilva/NotificationHubs)",
+              "Sample to help developers to implement Push Notification, through Azure Notification Hubs, in mobile applications.",
+              "[:arrow_upper_right:](\t\thttp://saramgsilva.github.io/NotificationHubs/)"
+            ],
+            [
+              "18",
+              "[@kappy](https://github.com/kappy)/[**FlatMapper**](https://github.com/kappy/FlatMapper)",
+              "FlatMapper is a library to import and export data from and to plain text files.",
+              ""
+            ],
+            [
+              "15",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**ModernUISamples**](https://github.com/saramgsilva/ModernUISamples)",
+              "Samples for WPF using Modern UI",
+              ""
+            ],
+            [
+              "13",
+              "[@kappy](https://github.com/kappy)/[**OSDB.net**](https://github.com/kappy/OSDB.net)",
+              "OSDB implementation for .Net (OpenSubtitles.org)",
+              ""
+            ],
+            [
+              "13",
+              "[@tritao](https://github.com/tritao)/[**SteamBot**](https://github.com/tritao/SteamBot)",
+              "Steam trading bot.",
+              ""
+            ],
+            [
+              "12",
+              "[@cmorgado](https://github.com/cmorgado)/[**MultiPlatform**](https://github.com/cmorgado/MultiPlatform)",
+              "base solution for building Windows Store and Windows Phone 8 app",
+              ""
+            ],
+            [
+              "10",
+              "[@vilaca](https://github.com/vilaca)/[**RemoteView**](https://github.com/vilaca/RemoteView)",
+              "Windows desktop sharing HTTP server",
+              ""
+            ],
+            [
+              "8",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**BluetoothSampleUsing…**](https://github.com/saramgsilva/BluetoothSampleUsing32feet.Net)",
+              "Sample that show how to send data through Bluetooth in a WPF application using 32feet.Net",
+              ""
+            ],
+            [
+              "7",
+              "[@cmorgado](https://github.com/cmorgado)/[**WordPressToWindowsPh…**](https://github.com/cmorgado/WordPressToWindowsPhone)",
+              "Windows Phone Toolkit to get your Wordpress site/blog as a Native App",
+              ""
+            ],
+            [
+              "7",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**XamarinWorkshop**](https://github.com/saramgsilva/XamarinWorkshop)",
+              "This repository will describe the requirements, resources, guides and demos for the Xamarin Workshop.",
+              "[:arrow_upper_right:](http://saramgsilva.github.io/XamarinWorkshop)"
+            ],
+            [
+              "5",
+              "[@tritao](https://github.com/tritao)/[**LLDBSharp**](https://github.com/tritao/LLDBSharp)",
+              "LLDB C# bindings generated with CppSharp",
+              ""
+            ],
+            [
+              "5",
+              "[@diogofdsilva](https://github.com/diogofdsilva)/[**MS-OSM-Querys**](https://github.com/diogofdsilva/MS-OSM-Querys)",
+              "Geocoding and Reverse Geocoding using MS SQL Server and WCF",
+              ""
+            ],
+            [
+              "4",
+              "[@danielbcorreia](https://github.com/danielbcorreia)/[**MARC**](https://github.com/danielbcorreia/MARC)",
+              "Parser for MARC records (ISO 2709)",
+              ""
+            ],
+            [
+              "4",
+              "[@rgl](https://github.com/rgl)/[**MailBounceDetector**](https://github.com/rgl/MailBounceDetector)",
+              "Detects whether a MailKit email Message is a bounce message",
+              ""
+            ],
+            [
+              "3",
+              "[@danielbcorreia](https://github.com/danielbcorreia)/[**OutputCacheExtension…**](https://github.com/danielbcorreia/OutputCacheExtensions)",
+              "Extensions for ASP.NET MVC OutputCache Mechanisms - More on http://blog.danielcorreia.net/tag/output…",
+              ""
+            ],
+            [
+              "3",
+              "[@pedrosanta](https://github.com/pedrosanta)/[**PlaymakerActionsPack**](https://github.com/pedrosanta/PlaymakerActionsPack)",
+              "Additional custom actions pack for Playmaker, the visual behaviour scripting tool for Unity Engine.",
+              ""
+            ],
+            [
+              "3",
+              "[@DVDPT](https://github.com/DVDPT)/[**libMPSSE-.Net-Wrappe…**](https://github.com/DVDPT/libMPSSE-.Net-Wrapper)",
+              "A C# wrapper to the FTDI devices library libMPSSE",
+              ""
+            ],
+            [
+              "3",
+              "[@tritao](https://github.com/tritao)/[**BuildSharp**](https://github.com/tritao/BuildSharp)",
+              "BuildSharp extensible CI system in C#",
+              ""
+            ],
+            [
+              "3",
+              "[@kappy](https://github.com/kappy)/[**SpMapper**](https://github.com/kappy/SpMapper)",
+              "simple Sharepoint Lists object mapper",
+              ""
+            ],
+            [
+              "3",
+              "[@DVDPT](https://github.com/DVDPT)/[**Programmatically-Spe…**](https://github.com/DVDPT/Programmatically-Speaking-Repository)",
+              "Random code about cool stuff",
+              ""
+            ],
+            [
+              "3",
+              "[@danielbcorreia](https://github.com/danielbcorreia)/[**MeoWalletDotNetClien…**](https://github.com/danielbcorreia/MeoWalletDotNetClient)",
+              "MEO Wallet API Client - .NET/C#",
+              ""
+            ],
+            [
+              "2",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**AzureMobileServices**](https://github.com/saramgsilva/AzureMobileServices)",
+              "Samples to help developers to use Azure Mobile Services.",
+              "[:arrow_upper_right:](http://saramgsilva.github.io/AzureMobileServices)"
+            ],
+            [
+              "2",
+              "[@saramgsilva](https://github.com/saramgsilva)/[**Office365RESTAPISamp…**](https://github.com/saramgsilva/Office365RESTAPISample)",
+              "Consuming Office 365 REST API in WP, Android and IOS using Xamarin Forms.",
+              ""
+            ],
+            [
+              "2",
+              "[@davidajulio](https://github.com/davidajulio)/[**hx**](https://github.com/davidajulio/hx)",
+              "Haxperience",
+              "[:arrow_upper_right:](http://www.haxperience.org)"
+            ],
+            [
+              "2",
+              "[@andrealexandre](https://github.com/andrealexandre)/[**NinjectPresentation**](https://github.com/andrealexandre/NinjectPresentation)",
+              "Some simple code of the Ninject usage.",
+              ""
+            ],
+            [
+              "2",
+              "[@Talento90](https://github.com/Talento90)/[**repository.mongodb.n…**](https://github.com/Talento90/repository.mongodb.net)",
+              "A generic MongoDb repository (Driver 2.0.1) for C# language. ",
               ""
             ]
           ]
