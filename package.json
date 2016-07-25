@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2124,6 +2125,273 @@
               "[@FMCalisto](https://github.com/FMCalisto)/[**calli.tech-prototype**](https://github.com/FMCalisto/calli.tech-prototype)",
               "CalliTech Webpage Prototype Repository",
               "[:arrow_upper_right:](http://calli.tech/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "108",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**mako**](https://github.com/franciscofranco/mako)",
+              "Nexus 4",
+              ""
+            ],
+            [
+              "104",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**hammerhead**](https://github.com/franciscofranco/hammerhead)",
+              "Nexus 5",
+              ""
+            ],
+            [
+              "53",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**bacon**](https://github.com/franciscofranco/bacon)",
+              "One Plus One",
+              ""
+            ],
+            [
+              "43",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**tuna**](https://github.com/franciscofranco/tuna)",
+              "Galaxy Nexus",
+              ""
+            ],
+            [
+              "36",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**grouper**](https://github.com/franciscofranco/grouper)",
+              "Nexus 7 2012",
+              ""
+            ],
+            [
+              "34",
+              "[@ucodev](https://github.com/ucodev)/[**usched**](https://github.com/ucodev/usched)",
+              "A remote command-line scheduler with an almost-natural language interpreter.",
+              "[:arrow_upper_right:](http://www.usched.org)"
+            ],
+            [
+              "34",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**Shamu**](https://github.com/franciscofranco/Shamu)",
+              "Nexus 6",
+              ""
+            ],
+            [
+              "24",
+              "[@dmcrodrigues](https://github.com/dmcrodrigues)/[**macro-logger**](https://github.com/dmcrodrigues/macro-logger)",
+              "A simplified logging system using macros.",
+              ""
+            ],
+            [
+              "17",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**angler**](https://github.com/franciscofranco/angler)",
+              "Nexus 6P",
+              ""
+            ],
+            [
+              "16",
+              "[@alvieboy](https://github.com/alvieboy)/[**arduino-serpro**](https://github.com/alvieboy/arduino-serpro)",
+              "Serial Protocol (packet/frame based) library for Arduino intercommunication",
+              ""
+            ],
+            [
+              "15",
+              "[@brNX](https://github.com/brNX)/[**gameboy-emu**](https://github.com/brNX/gameboy-emu)",
+              "Gameboy Emulator (C/C++/Qt)",
+              ""
+            ],
+            [
+              "9",
+              "[@defer](https://github.com/defer)/[**device_htc_bravo**](https://github.com/defer/device_htc_bravo)",
+              "Bravo Device spec for the AOSP build system ",
+              ""
+            ],
+            [
+              "9",
+              "[@dragonpt](https://github.com/dragonpt)/[**Kernel_3.4.67_KK_ZTE…**](https://github.com/dragonpt/Kernel_3.4.67_KK_ZTE_v970)",
+              "Custom KK Kernel For the ZTE v970 [MT6577 SoC]",
+              ""
+            ],
+            [
+              "8",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**flo**](https://github.com/franciscofranco/flo)",
+              "Nexus 7 2013",
+              ""
+            ],
+            [
+              "8",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**manta**](https://github.com/franciscofranco/manta)",
+              "Nexus 10",
+              ""
+            ],
+            [
+              "7",
+              "[@franciscofranco](https://github.com/franciscofranco)/[**bullhead**](https://github.com/franciscofranco/bullhead)",
+              "Nexus 5X",
+              ""
+            ],
+            [
+              "6",
+              "[@dragonpt](https://github.com/dragonpt)/[**Kernel_3.4.67_KK_Wik…**](https://github.com/dragonpt/Kernel_3.4.67_KK_Wiko_DarkMoon)",
+              "Custom OpenSourced MTK KitKat Kernel 3.4.67+  (MT6582 SoC) ",
+              ""
+            ],
+            [
+              "5",
+              "[@jopereira](https://github.com/jopereira)/[**java-tpcw**](https://github.com/jopereira/java-tpcw)",
+              "Working copy of Java TPC-W implementation used at U. Minho",
+              ""
+            ],
+            [
+              "5",
+              "[@impegoraro](https://github.com/impegoraro)/[**tagtool**](https://github.com/impegoraro/tagtool)",
+              "Port of the original audio tag tool to gtk+3",
+              ""
+            ],
+            [
+              "5",
+              "[@brNX](https://github.com/brNX)/[**arm-gbz80**](https://github.com/brNX/arm-gbz80)",
+              "Gameboy Emulator running on a Stellaris lm3s1776 (arm cortex m3) using an lcd as screen",
+              ""
+            ],
+            [
+              "4",
+              "[@brNX](https://github.com/brNX)/[**LedCube-client**](https://github.com/brNX/LedCube-client)",
+              "pc side client for led cube",
+              ""
+            ],
+            [
+              "4",
+              "[@brNX](https://github.com/brNX)/[**Attiny85-5x5x5LEDCub…**](https://github.com/brNX/Attiny85-5x5x5LEDCube)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@defer](https://github.com/defer)/[**android_external_jpe…**](https://github.com/defer/android_external_jpeg-turbo)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@alvieboy](https://github.com/alvieboy)/[**xtc-base**](https://github.com/alvieboy/xtc-base)",
+              "XThunderCore base repository.",
+              ""
+            ],
+            [
+              "3",
+              "[@dragonpt](https://github.com/dragonpt)/[**Kernel_3.4.67_KK_MMX…**](https://github.com/dragonpt/Kernel_3.4.67_KK_MMX_a110)",
+              "Custom OpenSourced KK Kernel for Micromax a110 [MT6577 SoC]",
+              ""
+            ],
+            [
+              "3",
+              "[@dragonpt](https://github.com/dragonpt)/[**Kernel_Wiko_DarkMoon…**](https://github.com/dragonpt/Kernel_Wiko_DarkMoon_Custom)",
+              "OpenSourced JB Kernel for the Wiko DarkMoon (MT6582 SoC)",
+              ""
+            ],
+            [
+              "3",
+              "[@dardevelin](https://github.com/dardevelin)/[**dbsglinked**](https://github.com/dardevelin/dbsglinked)",
+              "A small C implementation of a generic linked list to avoid rewriting same code all the time.",
+              ""
+            ],
+            [
+              "3",
+              "[@dardevelin](https://github.com/dardevelin)/[**dutils**](https://github.com/dardevelin/dutils)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ucodev](https://github.com/ucodev)/[**libfsma**](https://github.com/ucodev/libfsma)",
+              "Fast Scalable Memory Allocator",
+              "[:arrow_upper_right:](libfsma.ucodev.org)"
+            ],
+            [
+              "2",
+              "[@dmcrodrigues](https://github.com/dmcrodrigues)/[**TimeMonitor**](https://github.com/dmcrodrigues/TimeMonitor)",
+              "The aim of this project is to identify time bottlenecks. It provides checkpoints where you can track time spent on small parts of the code in addition to the total time.",
+              ""
+            ],
+            [
+              "2",
+              "[@brNX](https://github.com/brNX)/[**MMA7260-ATTINY**](https://github.com/brNX/MMA7260-ATTINY)",
+              "mma7260 pcb using a attiny for i2c/twi",
+              ""
+            ],
+            [
+              "2",
+              "[@brNX](https://github.com/brNX)/[**Line-FollowerV2**](https://github.com/brNX/Line-FollowerV2)",
+              "Line Follower using 5 selfmade reflectance sensors (irled/phototransistor)",
+              ""
+            ],
+            [
+              "2",
+              "[@joninvski](https://github.com/joninvski)/[**ts_7500_kernel**](https://github.com/joninvski/ts_7500_kernel)",
+              "Kernel for the ts-7500 devices",
+              ""
+            ],
+            [
+              "2",
+              "[@joninvski](https://github.com/joninvski)/[**placas7500**](https://github.com/joninvski/placas7500)",
+              "Vários scripts para mexer nas placas 7500 e o README com instrucções",
+              ""
+            ],
+            [
+              "2",
+              "[@defer](https://github.com/defer)/[**android_hardware_qco…**](https://github.com/defer/android_hardware_qcom_gps)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ucodev](https://github.com/ucodev)/[**libpsec**](https://github.com/ucodev/libpsec)",
+              "PSEC Library",
+              ""
+            ],
+            [
+              "2",
+              "[@dardevelin](https://github.com/dardevelin)/[**XFN**](https://github.com/dardevelin/XFN)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dardevelin](https://github.com/dardevelin)/[**Snippets**](https://github.com/dardevelin/Snippets)",
+              "collection of pieces of code that aren't part of any specific project but might be useful",
+              ""
+            ],
+            [
+              "2",
+              "[@dmcrodrigues](https://github.com/dmcrodrigues)/[**DRStopwatch**](https://github.com/dmcrodrigues/DRStopwatch)",
+              "Measuring time must be simple. Available for C, C++ and Objective-C.",
+              ""
+            ],
+            [
+              "2",
+              "[@brNX](https://github.com/brNX)/[**Pov-tiny2313**](https://github.com/brNX/Pov-tiny2313)",
+              "pov display using an attiny2313 ",
+              ""
+            ],
+            [
+              "2",
+              "[@duartebarbosa](https://github.com/duartebarbosa)/[**rt-kernel-testing**](https://github.com/duartebarbosa/rt-kernel-testing)",
+              "RT-Kernel tests files for the Arm T7500 boards",
+              ""
+            ],
+            [
+              "2",
+              "[@joninvski](https://github.com/joninvski)/[**USB_Wifi_RT2501_TS-7…**](https://github.com/joninvski/USB_Wifi_RT2501_TS-7500)",
+              "The source of the module for the rt2501 for the ts7500 arm device",
+              ""
             ]
           ]
         }
