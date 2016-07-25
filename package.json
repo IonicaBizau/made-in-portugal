@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1542,6 +1543,369 @@
               "[@waldyrious](https://github.com/waldyrious)/[**primerpedia**](https://github.com/waldyrious/primerpedia)",
               "Proof of concept for Concise Wikipedia proposal",
               "[:arrow_upper_right:](http://waldyrious.github.com/primerpedia/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "399",
+              "[@pires](https://github.com/pires)/[**android-obd-reader**](https://github.com/pires/android-obd-reader)",
+              "Android OBD-II Reader application that uses pure OBD-II PID's Java API.",
+              ""
+            ],
+            [
+              "392",
+              "[@Vazkii](https://github.com/Vazkii)/[**Botania**](https://github.com/Vazkii/Botania)",
+              "A magic mod for Minecraft based on nature and plant life. Also literally the seed of all evil on the modding community.",
+              "[:arrow_upper_right:](http://botaniamod.net/)"
+            ],
+            [
+              "204",
+              "[@pires](https://github.com/pires)/[**obd-java-api**](https://github.com/pires/obd-java-api)",
+              "OBD-II Java API",
+              ""
+            ],
+            [
+              "154",
+              "[@samaxes](https://github.com/samaxes)/[**minify-maven-plugin**](https://github.com/samaxes/minify-maven-plugin)",
+              "Combine and minimize JavaScript and CSS files for faster page loading.",
+              "[:arrow_upper_right:](http://samaxes.github.com/minify-maven-plugin)"
+            ],
+            [
+              "143",
+              "[@Vazkii](https://github.com/Vazkii)/[**Psi**](https://github.com/Vazkii/Psi)",
+              "10th Grade Mathematics: The Mod.",
+              "[:arrow_upper_right:](http://psi.vazkii.us)"
+            ],
+            [
+              "68",
+              "[@pires](https://github.com/pires)/[**spring-boot-shiro-or…**](https://github.com/pires/spring-boot-shiro-orientdb)",
+              "A simple REST API built with Spring Boot and OrientDB (Object API) datastore, secured with Apache Shiro (distributed session storage powered by Hazelcast).",
+              ""
+            ],
+            [
+              "54",
+              "[@pires](https://github.com/pires)/[**hibernate-postgres-j…**](https://github.com/pires/hibernate-postgres-jsonb)",
+              "A working implementation of JSONB support on a Java + Hibernate application.",
+              ""
+            ],
+            [
+              "38",
+              "[@Vazkii](https://github.com/Vazkii)/[**Quark**](https://github.com/Vazkii/Quark)",
+              "Small things.",
+              ""
+            ],
+            [
+              "35",
+              "[@pires](https://github.com/pires)/[**obd-server**](https://github.com/pires/obd-server)",
+              "Webapp responsible for storing OBD (Android OBD Reader) readings.",
+              ""
+            ],
+            [
+              "26",
+              "[@samaxes](https://github.com/samaxes)/[**javaee-cache-filter**](https://github.com/samaxes/javaee-cache-filter)",
+              "Java EE Cache Filter",
+              ""
+            ],
+            [
+              "24",
+              "[@radcortez](https://github.com/radcortez)/[**wow-auctions**](https://github.com/radcortez/wow-auctions)",
+              "World of Warcraft Auctions using Java EE Batch - JSR-352",
+              ""
+            ],
+            [
+              "18",
+              "[@Vazkii](https://github.com/Vazkii)/[**Emotes**](https://github.com/Vazkii/Emotes)",
+              "Wave! Dance! Facepalm! Emotes mod for Minecraft!",
+              ""
+            ],
+            [
+              "14",
+              "[@radcortez](https://github.com/radcortez)/[**jpa-performance**](https://github.com/radcortez/jpa-performance)",
+              "A showcase of tests with performance measurements for JPA applications",
+              ""
+            ],
+            [
+              "14",
+              "[@Vazkii](https://github.com/Vazkii)/[**MineTunes**](https://github.com/Vazkii/MineTunes)",
+              "Minecraft music player",
+              ""
+            ],
+            [
+              "13",
+              "[@Vazkii](https://github.com/Vazkii)/[**Morph-o-Tool**](https://github.com/Vazkii/Morph-o-Tool)",
+              "The wrench to end all wrenches. Or have them be used?",
+              ""
+            ],
+            [
+              "11",
+              "[@radcortez](https://github.com/radcortez)/[**wildfly-custom-login…**](https://github.com/radcortez/wildfly-custom-login-module)",
+              "Custom LoginModule for Wildfly",
+              ""
+            ],
+            [
+              "11",
+              "[@Vazkii](https://github.com/Vazkii)/[**ChatFlow**](https://github.com/Vazkii/ChatFlow)",
+              "A mod that allows for chat control.",
+              ""
+            ],
+            [
+              "11",
+              "[@samaxes](https://github.com/samaxes)/[**jaxrs-beanvalidation…**](https://github.com/samaxes/jaxrs-beanvalidation-javaee6)",
+              "Integrate Bean Validation with JAX-RS and internationalize error messages using JBoss' proprietary implementations.",
+              ""
+            ],
+            [
+              "11",
+              "[@Vazkii](https://github.com/Vazkii)/[**CMPDL**](https://github.com/Vazkii/CMPDL)",
+              "Curse Modpack Downloader",
+              ""
+            ],
+            [
+              "9",
+              "[@samaxes](https://github.com/samaxes)/[**jaxrs-beanvalidation…**](https://github.com/samaxes/jaxrs-beanvalidation-javaee7)",
+              "Validating JAX-RS resource data with Bean Validation in Java EE 7",
+              ""
+            ],
+            [
+              "8",
+              "[@pires](https://github.com/pires)/[**simple-jpa-hibernate…**](https://github.com/pires/simple-jpa-hibernate-guice-desktop-app)",
+              "A simple proof-of-concept of a desktop Java application with database access using JPA, Hibernate and Guice.",
+              ""
+            ],
+            [
+              "8",
+              "[@samaxes](https://github.com/samaxes)/[**java-ee-testing**](https://github.com/samaxes/java-ee-testing)",
+              "Java EE testing code examples.",
+              ""
+            ],
+            [
+              "8",
+              "[@Vazkii](https://github.com/Vazkii)/[**Ambience**](https://github.com/Vazkii/Ambience)",
+              "Your music in minecraft",
+              ""
+            ],
+            [
+              "8",
+              "[@pires](https://github.com/pires)/[**hazelcast-kubernetes…**](https://github.com/pires/hazelcast-kubernetes-bootstrapper)",
+              "Hazelcast cluster discovery mechanism for Kubernetes.",
+              ""
+            ],
+            [
+              "8",
+              "[@pires](https://github.com/pires)/[**fabric8-persistence-…**](https://github.com/pires/fabric8-persistence-hibernate)",
+              "Fabric8 + E-OSGi JPA 2.1 managed persistence (Aries + Hibernate 4.3.x) + REST service demonstration code.",
+              ""
+            ],
+            [
+              "8",
+              "[@Vazkii](https://github.com/Vazkii)/[**Neat**](https://github.com/Vazkii/Neat)",
+              "Functional minimalistic Unit Frames for the modern Minecrafter",
+              ""
+            ],
+            [
+              "6",
+              "[@Vazkii](https://github.com/Vazkii)/[**Waterproof**](https://github.com/Vazkii/Waterproof)",
+              "Small mod that lets players make blocks not be destroyed by water",
+              ""
+            ],
+            [
+              "6",
+              "[@pires](https://github.com/pires)/[**fabric8-cxf-shiro**](https://github.com/pires/fabric8-cxf-shiro)",
+              "OSGi-enabled authentication & authorization service, powered by Apache Shiro and Hazelcast cluster. Goes really well with Fabric8 or JBoss Fuse for auto-scaling.",
+              ""
+            ],
+            [
+              "6",
+              "[@Vazkii](https://github.com/Vazkii)/[**GenCreator**](https://github.com/Vazkii/GenCreator)",
+              "The GenCreator mod, a mod that allows you to make Worldgen structures from within the game.",
+              ""
+            ],
+            [
+              "5",
+              "[@Vazkii](https://github.com/Vazkii)/[**CraftHeraldry**](https://github.com/Vazkii/CraftHeraldry)",
+              "The CraftHeraldry mod, a mod for Minecraft that allows you to Craft Heraldry, as the name implies.",
+              ""
+            ],
+            [
+              "5",
+              "[@jpbarbosa](https://github.com/jpbarbosa)/[**AirlineManager**](https://github.com/jpbarbosa/AirlineManager)",
+              "A simple project to manage an airline company.",
+              ""
+            ],
+            [
+              "5",
+              "[@Vazkii](https://github.com/Vazkii)/[**ReCubed**](https://github.com/Vazkii/ReCubed)",
+              "Mod for Modjam 3.",
+              ""
+            ],
+            [
+              "4",
+              "[@pires](https://github.com/pires)/[**simple-jersey-rest-a…**](https://github.com/pires/simple-jersey-rest-app)",
+              "A simple proof-of-concept of RESTful web service implemented with Jersey and Glassfish.",
+              ""
+            ],
+            [
+              "4",
+              "[@radcortez](https://github.com/radcortez)/[**rest-ssl**](https://github.com/radcortez/rest-ssl)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Vazkii](https://github.com/Vazkii)/[**PfaeffsMod**](https://github.com/Vazkii/PfaeffsMod)",
+              "Update of Pfaeff's mod for newer versions of minecraft",
+              ""
+            ],
+            [
+              "3",
+              "[@Vazkii](https://github.com/Vazkii)/[**Vazcore**](https://github.com/Vazkii/Vazcore)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Vazkii](https://github.com/Vazkii)/[**ElementalTinkerer**](https://github.com/Vazkii/ElementalTinkerer)",
+              "The Elemental Tinkerer minecraft mod. (Deprecated)",
+              "[:arrow_upper_right:](http://www.minecraftforum.net/topic/1645904-forge-elemental-tinkerer-pre-1-unleash-the-power-of-the-elements/)"
+            ],
+            [
+              "3",
+              "[@jpbarbosa](https://github.com/jpbarbosa)/[**BetAndUin**](https://github.com/jpbarbosa/BetAndUin)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@samaxes](https://github.com/samaxes)/[**ddr-compare**](https://github.com/samaxes/ddr-compare)",
+              "Device Description Repositories comparison.",
+              ""
+            ],
+            [
+              "3",
+              "[@Vazkii](https://github.com/Vazkii)/[**Pillar**](https://github.com/Vazkii/Pillar)",
+              "World Generation manager using Structure Blocks.",
+              ""
+            ],
+            [
+              "3",
+              "[@pires](https://github.com/pires)/[**apache-ignite-discov…**](https://github.com/pires/apache-ignite-discovery-kubernetes)",
+              "Apache Ignite discovery for Kubernetes.",
+              ""
+            ],
+            [
+              "3",
+              "[@ruippeixotog](https://github.com/ruippeixotog)/[**chess-piece-collecto…**](https://github.com/ruippeixotog/chess-piece-collector)",
+              "An utility for collecting training data for a chess board recognition ML system.",
+              ""
+            ],
+            [
+              "2",
+              "[@pires](https://github.com/pires)/[**simple-kundera-embed…**](https://github.com/pires/simple-kundera-embedded-cassandra-app)",
+              "A simple proof-of-concept of a Java application with embedded Cassandra integration, using Kundera and Guice.",
+              ""
+            ],
+            [
+              "2",
+              "[@pires](https://github.com/pires)/[**sherlock**](https://github.com/pires/sherlock)",
+              "Message-driven, NoSQL-powered auditing framework",
+              ""
+            ],
+            [
+              "2",
+              "[@ruippeixotog](https://github.com/ruippeixotog)/[**permission-explorer**](https://github.com/ruippeixotog/permission-explorer)",
+              "An Android application that shows information about the permissions granted to applications.",
+              ""
+            ],
+            [
+              "2",
+              "[@radcortez](https://github.com/radcortez)/[**wildfly-spring-batch**](https://github.com/radcortez/wildfly-spring-batch)",
+              "JSR-352 Spring Batch implementation as Wildfly module",
+              ""
+            ],
+            [
+              "2",
+              "[@radcortez](https://github.com/radcortez)/[**cbrjug-lambdas**](https://github.com/radcortez/cbrjug-lambdas)",
+              "First lambdas",
+              ""
+            ],
+            [
+              "2",
+              "[@pires](https://github.com/pires)/[**fabric8-cxf-dosgi-de…**](https://github.com/pires/fabric8-cxf-dosgi-demo-blueprint)",
+              "Simple Fabric8-oriented CXF + DOSGi demonstration code.",
+              ""
+            ],
+            [
+              "2",
+              "[@jpbarbosa](https://github.com/jpbarbosa)/[**Library**](https://github.com/jpbarbosa/Library)",
+              "Very simple database system",
+              ""
+            ],
+            [
+              "2",
+              "[@arestivo](https://github.com/arestivo)/[**druid**](https://github.com/arestivo/druid)",
+              "drUID Unexpected Interactions Detector",
+              ""
+            ],
+            [
+              "2",
+              "[@arestivo](https://github.com/arestivo)/[**sfs**](https://github.com/arestivo/sfs)",
+              "Shop Floor Simulator",
+              ""
+            ],
+            [
+              "2",
+              "[@Vazkii](https://github.com/Vazkii)/[**Recall**](https://github.com/Vazkii/Recall)",
+              "",
+              "[:arrow_upper_right:](http://www.minecraftforum.net/topic/528166-123-mlforge-vazkiis-mods-ebonapi-last-updated-12512/)"
+            ],
+            [
+              "2",
+              "[@Vazkii](https://github.com/Vazkii)/[**EasyFPS**](https://github.com/Vazkii/EasyFPS)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jpbarbosa](https://github.com/jpbarbosa)/[**AeminiumAM**](https://github.com/jpbarbosa/AeminiumAM)",
+              "Actors Model for the Aeminium project",
+              ""
+            ],
+            [
+              "2",
+              "[@Vazkii](https://github.com/Vazkii)/[**Layman-Mod-Maker**](https://github.com/Vazkii/Layman-Mod-Maker)",
+              "",
+              "[:arrow_upper_right:](http://www.minecraftforum.net/topic/1475385-wip-layman-mod-maker-modding-has-never-been-as-simple/)"
+            ],
+            [
+              "2",
+              "[@davidmartinho](https://github.com/davidmartinho)/[**fenix-framework**](https://github.com/davidmartinho/fenix-framework)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jcarvalho](https://github.com/jcarvalho)/[**ssh-server**](https://github.com/jcarvalho/ssh-server)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Vazkii](https://github.com/Vazkii)/[**CraftingCreation**](https://github.com/Vazkii/CraftingCreation)",
+              "My Entry for Searge's ModJam.",
+              ""
             ]
           ]
         }
