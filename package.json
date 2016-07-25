@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -2743,6 +2744,297 @@
               "2",
               "[@rizo](https://github.com/rizo)/[**CATextLayerLab**](https://github.com/rizo/CATextLayerLab)",
               "A simple example demonstrating CoreAnimation text layer features.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "37",
+              "[@ambs](https://github.com/ambs)/[**Books**](https://github.com/ambs/Books)",
+              "My repository to book projects... if I eventually have the guts to write more than one...",
+              "[:arrow_upper_right:](http://ambs.github.com/Books)"
+            ],
+            [
+              "29",
+              "[@melo](https://github.com/melo)/[**scripts**](https://github.com/melo/scripts)",
+              "My personal script stash",
+              "[:arrow_upper_right:](http://github.com/melo/scripts)"
+            ],
+            [
+              "15",
+              "[@cog](https://github.com/cog)/[**perlbaldoc**](https://github.com/cog/perlbaldoc)",
+              "Perlbal documentation",
+              ""
+            ],
+            [
+              "14",
+              "[@melo](https://github.com/melo)/[**perl-anyevent-nsq**](https://github.com/melo/perl-anyevent-nsq)",
+              "A AnyEvent-based client for NSQ.io",
+              ""
+            ],
+            [
+              "11",
+              "[@ambs](https://github.com/ambs)/[**Quiki**](https://github.com/ambs/Quiki)",
+              "Quick Wiki in Perl",
+              "[:arrow_upper_right:](http://quiki.perl-hackers.net/)"
+            ],
+            [
+              "9",
+              "[@melo](https://github.com/melo)/[**rasputine**](https://github.com/melo/rasputine)",
+              "A XMPP-to-MUD/Moo/Talker systems",
+              ""
+            ],
+            [
+              "8",
+              "[@melo](https://github.com/melo)/[**amqp-tools**](https://github.com/melo/amqp-tools)",
+              "An AMQP stack for Perl",
+              ""
+            ],
+            [
+              "6",
+              "[@melo](https://github.com/melo)/[**bash-completion**](https://github.com/melo/bash-completion)",
+              "A Perl distribution to create your own bash completion solutions",
+              ""
+            ],
+            [
+              "6",
+              "[@melo](https://github.com/melo)/[**alterego**](https://github.com/melo/alterego)",
+              "A XMPP bot that works as your alter ego",
+              ""
+            ],
+            [
+              "6",
+              "[@jbarber](https://github.com/jbarber)/[**vmware-perl**](https://github.com/jbarber/vmware-perl)",
+              "Perl scripts for basic VMware administration and reporting",
+              ""
+            ],
+            [
+              "6",
+              "[@melo](https://github.com/melo)/[**dbix--class--tree--n…**](https://github.com/melo/dbix--class--tree--nestedset)",
+              "A DBIx::Class component to implement a tree structure using nested sets",
+              ""
+            ],
+            [
+              "5",
+              "[@melo](https://github.com/melo)/[**anyevent--xmpp**](https://github.com/melo/anyevent--xmpp)",
+              "My patches to Net::XMPP2",
+              "[:arrow_upper_right:](http://www.ta-sa.org/net_xmpp2)"
+            ],
+            [
+              "5",
+              "[@melo](https://github.com/melo)/[**anyevent-smtp**](https://github.com/melo/anyevent-smtp)",
+              "AnyEvent-based SMTP client and server",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/AnyEvent-SMTP/)"
+            ],
+            [
+              "5",
+              "[@melo](https://github.com/melo)/[**anyevent--mojo**](https://github.com/melo/anyevent--mojo)",
+              "Module to run Mojo apps using the AnyEvent framework",
+              ""
+            ],
+            [
+              "4",
+              "[@melo](https://github.com/melo)/[**perl-sapo-broker**](https://github.com/melo/perl-sapo-broker)",
+              "A set of Perl modules to work with SAPO Broker",
+              ""
+            ],
+            [
+              "4",
+              "[@melo](https://github.com/melo)/[**dist-zilla-tools**](https://github.com/melo/dist-zilla-tools)",
+              "My Dist::Zilla plugins and tools",
+              ""
+            ],
+            [
+              "4",
+              "[@melo](https://github.com/melo)/[**cil**](https://github.com/melo/cil)",
+              "DVCS-powered ticketing system",
+              "[:arrow_upper_right:](http://kapiti.geek.nz/software/cil.html)"
+            ],
+            [
+              "4",
+              "[@melo](https://github.com/melo)/[**proc-metrics**](https://github.com/melo/proc-metrics)",
+              "Perl modules to measure process metrics like CPU and memory usage",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**smoke-it**](https://github.com/melo/smoke-it)",
+              "A set of tools do build a smoke testing environment",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**perl-app-cacm**](https://github.com/melo/perl-app-cacm)",
+              "Keep track of directory in quasi-realtime using Git",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**perl-libnet**](https://github.com/melo/perl-libnet)",
+              "Mirror of SVN repository for Libnet",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/libnet/)"
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**amazon-pl**](https://github.com/melo/amazon-pl)",
+              "Amazon::* modules, done right",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**perl-benchmarks**](https://github.com/melo/perl-benchmarks)",
+              "Small benchmarks of small perl topics",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**app-htttpthis**](https://github.com/melo/app-htttpthis)",
+              "A simple static content server using Plack",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/App-HTTPThis/)"
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**dbic-indexing**](https://github.com/melo/dbic-indexing)",
+              "Easy way to create indices for your DBIx::Class sources",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/dbicx-indexing/)"
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**anyevent--httpd**](https://github.com/melo/anyevent--httpd)",
+              "Tweaks to AnyEvent::HTTPD",
+              ""
+            ],
+            [
+              "3",
+              "[@smpb](https://github.com/smpb)/[**bootstrap-wiki**](https://github.com/smpb/bootstrap-wiki)",
+              "Simple wiki engine using Mojolicious and Bootstrap, with Markdown files as content.",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**presentations**](https://github.com/melo/presentations)",
+              "My presentations",
+              ""
+            ],
+            [
+              "3",
+              "[@smpb](https://github.com/smpb)/[**codebits-api**](https://github.com/smpb/codebits-api)",
+              "A Perl implementation of the API made available for the Portuguese tech company SAPO event, Codebits",
+              "[:arrow_upper_right:](http://codebits.eu/s/api)"
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**anyevent--http**](https://github.com/melo/anyevent--http)",
+              "A async HTTP client using the AnyEvent framework",
+              ""
+            ],
+            [
+              "3",
+              "[@ambs](https://github.com/ambs)/[**ExtUtils-LibBuilder**](https://github.com/ambs/ExtUtils-LibBuilder)",
+              "Perl module to compile plain C libraries using ExtUtils::CBuilder and cia.",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**pocs**](https://github.com/melo/pocs)",
+              "Proof of concepts and other random examples",
+              ""
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**moose**](https://github.com/melo/moose)",
+              "Moose is a postmodern object system for Perl 5 ",
+              "[:arrow_upper_right:](http://moose.perl.org/)"
+            ],
+            [
+              "3",
+              "[@melo](https://github.com/melo)/[**codebits**](https://github.com/melo/codebits)",
+              "Presentations and projects done at SAPO Codebits",
+              ""
+            ],
+            [
+              "2",
+              "[@ambs](https://github.com/ambs)/[**PHP-Include**](https://github.com/ambs/PHP-Include)",
+              "PHP::Include Perl Module",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/PHP-Include/)"
+            ],
+            [
+              "2",
+              "[@bmartins](https://github.com/bmartins)/[**WWW-TVMaze**](https://github.com/bmartins/WWW-TVMaze)",
+              "Perl TVMaze API interface",
+              ""
+            ],
+            [
+              "2",
+              "[@rcm](https://github.com/rcm)/[**spln1415**](https://github.com/rcm/spln1415)",
+              "Repositório das aulas de Scripting no processamento de  linguagem natural",
+              ""
+            ],
+            [
+              "2",
+              "[@Shemahmforash](https://github.com/Shemahmforash)/[**xml-gsa**](https://github.com/Shemahmforash/xml-gsa)",
+              "XML::GSA - Creates xml in google search appliance (GSA) format",
+              "[:arrow_upper_right:](http://search.cpan.org/~wanderer/XML-GSA-0.07/)"
+            ],
+            [
+              "2",
+              "[@cog](https://github.com/cog)/[**Filesys-Diskusage**](https://github.com/cog/Filesys-Diskusage)",
+              "Estimate file space usage (similar to `du`)",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Filesys-DiskUsage/)"
+            ],
+            [
+              "2",
+              "[@ambs](https://github.com/ambs)/[**Text-Diff-FormattedH…**](https://github.com/ambs/Text-Diff-FormattedHTML)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@melo](https://github.com/melo)/[**Dist-Zilla-PluginBun…**](https://github.com/melo/Dist-Zilla-PluginBundle-Author-Melo)",
+              "MELO is lazy, this are his rules",
+              "[:arrow_upper_right:](http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-MELO/)"
+            ],
+            [
+              "2",
+              "[@ambs](https://github.com/ambs)/[**Math-Matrix-MaybeGSL**](https://github.com/ambs/Math-Matrix-MaybeGSL)",
+              "Uniform use of Math::MatrixReal and Math::GSL::Matrix.",
+              ""
+            ],
+            [
+              "2",
+              "[@melo](https://github.com/melo)/[**App-SuperviseMe**](https://github.com/melo/App-SuperviseMe)",
+              "very simple command superviser",
+              "[:arrow_upper_right:](http://metacpan.org/release/App-SuperviseMe/)"
+            ],
+            [
+              "2",
+              "[@ambs](https://github.com/ambs)/[**Dancer2-Plugin-JWT**](https://github.com/ambs/Dancer2-Plugin-JWT)",
+              "JWT for Dancer2",
+              ""
+            ],
+            [
+              "2",
+              "[@ambs](https://github.com/ambs)/[**Config-AutoConf**](https://github.com/ambs/Config-AutoConf)",
+              "Config::AutoConf Perl Module",
+              ""
+            ],
+            [
+              "2",
+              "[@melo](https://github.com/melo)/[**proc-daemontools-pp**](https://github.com/melo/proc-daemontools-pp)",
+              "Proc::Daemontools::PP - Pure Perl interface to Daemontools services",
               ""
             ]
           ]
