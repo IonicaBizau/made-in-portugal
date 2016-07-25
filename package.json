@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Go](#go)"
         ]
       },
       {
@@ -2518,6 +2519,45 @@
               "[@bitmaker-software](https://github.com/bitmaker-software)/[**tomee-cli**](https://github.com/bitmaker-software/tomee-cli)",
               "The fast way to configure Apache TomEE",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "59",
+              "[@quintans](https://github.com/quintans)/[**goSQL**](https://github.com/quintans/goSQL)",
+              "a ORM like library in Go (golang)",
+              ""
+            ],
+            [
+              "12",
+              "[@rodkranz](https://github.com/rodkranz)/[**ff**](https://github.com/rodkranz/ff)",
+              "Find Text or File",
+              ""
+            ],
+            [
+              "3",
+              "[@quintans](https://github.com/quintans)/[**toolkit**](https://github.com/quintans/toolkit)",
+              "Several tools to support my Go pet projects",
+              ""
+            ],
+            [
+              "2",
+              "[@rusco](https://github.com/rusco)/[**rxjs**](https://github.com/rusco/rxjs)",
+              "FRP versus Golang Channels comparison ",
+              "[:arrow_upper_right:](http://rusco.github.io)"
             ]
           ]
         }
