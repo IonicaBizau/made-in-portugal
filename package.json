@@ -62,7 +62,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -4281,6 +4282,87 @@
               "2",
               "[@Molecular-Systems-Bi…](https://github.com/Molecular-Systems-Biology-Group)/[**LibjSBML**](https://github.com/Molecular-Systems-Biology-Group/LibjSBML)",
               "JVM based implementation of LibSBML without any C++ dependecies.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "58",
+              "[@pmalves](https://github.com/pmalves)/[**ctools-installer**](https://github.com/pmalves/ctools-installer)",
+              "Shell script that installs the CTools",
+              ""
+            ],
+            [
+              "36",
+              "[@kintoandar](https://github.com/kintoandar)/[**git-hooks**](https://github.com/kintoandar/git-hooks)",
+              "github_email_verify: Avoid committing to github with your corporate email",
+              ""
+            ],
+            [
+              "8",
+              "[@celso](https://github.com/celso)/[**arcade**](https://github.com/celso/arcade)",
+              "Scripts and Patches for Arcade Machine System",
+              ""
+            ],
+            [
+              "7",
+              "[@kintoandar](https://github.com/kintoandar)/[**shell_scripts**](https://github.com/kintoandar/shell_scripts)",
+              "Several shell scripts organized by function: init script to manage multiple Ghost blog instances + backup to an encrypted tar.gz file using gpg + iptables template + ssh vpn + nagios/nrpe/sensu script for monitoring dmraid, modsecurity, ossec + plugin for IRSSI email on mentions",
+              "[:arrow_upper_right:](https://blog.kintoandar.com/)"
+            ],
+            [
+              "6",
+              "[@SandroMachado](https://github.com/SandroMachado)/[**xcassetsutils**](https://github.com/SandroMachado/xcassetsutils)",
+              "Shell Scripts to extract and restore all the images in an Asset Catalog folder (.xcassets)",
+              ""
+            ],
+            [
+              "5",
+              "[@marmelo](https://github.com/marmelo)/[**streaming-pt**](https://github.com/marmelo/streaming-pt)",
+              "Live TV and Radio shell scripts from Portugal.",
+              ""
+            ],
+            [
+              "3",
+              "[@cenourinha](https://github.com/cenourinha)/[**webtuga-gameserver-s…**](https://github.com/cenourinha/webtuga-gameserver-script-management)",
+              "A Linux Bash script that will help you to create and manage gameservers. Great tool for the one's who don't like to remember all that Linux commands that are too confuse for your brain.",
+              "[:arrow_upper_right:](http://www.webtuga.com)"
+            ],
+            [
+              "3",
+              "[@miuiportugal](https://github.com/miuiportugal)/[**IdeosX5-U8800-Port**](https://github.com/miuiportugal/IdeosX5-U8800-Port)",
+              "",
+              "[:arrow_upper_right:](www.miui-pt.com)"
+            ],
+            [
+              "3",
+              "[@kintoandar](https://github.com/kintoandar)/[**dummy_ca**](https://github.com/kintoandar/dummy_ca)",
+              "A quick and dirty way for creating a Root Certification Authority (CA) and one Intermediate CA for testing",
+              ""
+            ],
+            [
+              "2",
+              "[@rmrodrigues](https://github.com/rmrodrigues)/[**transmissionbt-notif…**](https://github.com/rmrodrigues/transmissionbt-notifications)",
+              "This is a small shell script that allows you send notification when a download finish. The notification can be an email, Push Notification and what you want.",
+              ""
+            ],
+            [
+              "2",
+              "[@francomile](https://github.com/francomile)/[**Vagrant-CentOS5-Prov…**](https://github.com/francomile/Vagrant-CentOS5-Provisioning)",
+              "Vagrant CentOS 5 Provision script for LAMP server",
               ""
             ]
           ]
