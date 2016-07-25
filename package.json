@@ -63,7 +63,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -4363,6 +4364,27 @@
               "2",
               "[@francomile](https://github.com/francomile)/[**Vagrant-CentOS5-Prov…**](https://github.com/francomile/Vagrant-CentOS5-Provisioning)",
               "Vagrant CentOS 5 Provision script for LAMP server",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@psalterio](https://github.com/psalterio)/[**repository**](https://github.com/psalterio/repository)",
+              "musicas do psalterio",
               ""
             ]
           ]
