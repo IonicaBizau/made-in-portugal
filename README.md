@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -31,6 +32,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3156 | [@ruipgil](https://github.com/ruipgil)/[**scraperjs**](https://github.com/ruipgil/scraperjs) | A complete and versatile web scraper. |
@@ -280,7 +282,9 @@
 2 | [@apocas](https://github.com/apocas)/[**nodechecker-crawler**](https://github.com/apocas/nodechecker-crawler) | Nodechecker.com NPM crawler |
 2 | [@JosePedroDias](https://github.com/JosePedroDias)/[**dagre-canvas**](https://github.com/JosePedroDias/dagre-canvas) | A simple canvas renderer for directed graphs based on dagre | [:arrow_upper_right:](http://josepedrodias.github.io/dagre-canvas/index.html)
 2 | [@waldyrious](https://github.com/waldyrious)/[**primerpedia**](https://github.com/waldyrious/primerpedia) | Proof of concept for Concise Wikipedia proposal | [:arrow_upper_right:](http://waldyrious.github.com/primerpedia/)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 399 | [@pires](https://github.com/pires)/[**android-obd-reader**](https://github.com/pires/android-obd-reader) | Android OBD-II Reader application that uses pure OBD-II PID's Java API. |
@@ -341,7 +345,9 @@
 2 | [@davidmartinho](https://github.com/davidmartinho)/[**fenix-framework**](https://github.com/davidmartinho/fenix-framework) |  |
 2 | [@jcarvalho](https://github.com/jcarvalho)/[**ssh-server**](https://github.com/jcarvalho/ssh-server) |  |
 2 | [@Vazkii](https://github.com/Vazkii)/[**CraftingCreation**](https://github.com/Vazkii/CraftingCreation) | My Entry for Searge's ModJam. |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 66 | [@rjperes](https://github.com/rjperes)/[**Postal.NET**](https://github.com/rjperes/Postal.NET) | Postal.NET |
@@ -371,14 +377,18 @@
 2 | [@davidajulio](https://github.com/davidajulio)/[**hx**](https://github.com/davidajulio/hx) | Haxperience | [:arrow_upper_right:](http://www.haxperience.org)
 2 | [@andrealexandre](https://github.com/andrealexandre)/[**NinjectPresentation**](https://github.com/andrealexandre/NinjectPresentation) | Some simple code of the Ninject usage. |
 2 | [@Talento90](https://github.com/Talento90)/[**repository.mongodb.n…**](https://github.com/Talento90/repository.mongodb.net) | A generic MongoDb repository (Driver 2.0.1) for C# language.  |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@VictorCamargo](https://github.com/VictorCamargo)/[**LocalTheme**](https://github.com/VictorCamargo/LocalTheme) | A beautiful and useful "theme" for localhost. |
 2 | [@armthethinker](https://github.com/armthethinker)/[**colorless**](https://github.com/armthethinker/colorless) | Popular color libraries in LESS |
 2 | [@FMCalisto](https://github.com/FMCalisto)/[**e-LearningSenior**](https://github.com/FMCalisto/e-LearningSenior) | Online Learning for Elderly | [:arrow_upper_right:](http://fmcalisto.github.io/e-LearningSenior/)
 2 | [@FMCalisto](https://github.com/FMCalisto)/[**calli.tech-prototype**](https://github.com/FMCalisto/calli.tech-prototype) | CalliTech Webpage Prototype Repository | [:arrow_upper_right:](http://calli.tech/)
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 108 | [@franciscofranco](https://github.com/franciscofranco)/[**mako**](https://github.com/franciscofranco/mako) | Nexus 4 |
@@ -423,7 +433,9 @@
 2 | [@brNX](https://github.com/brNX)/[**Pov-tiny2313**](https://github.com/brNX/Pov-tiny2313) | pov display using an attiny2313  |
 2 | [@duartebarbosa](https://github.com/duartebarbosa)/[**rt-kernel-testing**](https://github.com/duartebarbosa/rt-kernel-testing) | RT-Kernel tests files for the Arm T7500 boards |
 2 | [@joninvski](https://github.com/joninvski)/[**USB_Wifi_RT2501_TS-7…**](https://github.com/joninvski/USB_Wifi_RT2501_TS-7500) | The source of the module for the rt2501 for the ts7500 arm device |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 666 | [@SupSuper](https://github.com/SupSuper)/[**OpenXcom**](https://github.com/SupSuper/OpenXcom) | Open-source clone of the original X-Com | [:arrow_upper_right:](http://openxcom.org)
@@ -436,23 +448,31 @@
 2 | [@DDuarte](https://github.com/DDuarte)/[**feup-blackjack**](https://github.com/DDuarte/feup-blackjack) | FEUP: Programming - EIC0012 - 2011/2012 - Blackjack C++ game, with Allegro |
 2 | [@naps62](https://github.com/naps62)/[**barneshut-galois**](https://github.com/naps62/barneshut-galois) | A Barnes Hut implementation based on the Galois system |
 2 | [@naps62](https://github.com/naps62)/[**papi-cuda**](https://github.com/naps62/papi-cuda) | A PAPI CUDA analysis using a pathtracer implementation |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@vmlf01](https://github.com/vmlf01)/[**CasparTimer**](https://github.com/vmlf01/CasparTimer) | CasparCG Timer component |
 2 | [@vmlf01](https://github.com/vmlf01)/[**CasparSystemTime**](https://github.com/vmlf01/CasparSystemTime) | CasparCG System Time display component |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@bitmaker-software](https://github.com/bitmaker-software)/[**tomee-cli**](https://github.com/bitmaker-software/tomee-cli) | The fast way to configure Apache TomEE |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 59 | [@quintans](https://github.com/quintans)/[**goSQL**](https://github.com/quintans/goSQL) | a ORM like library in Go (golang) |
 12 | [@rodkranz](https://github.com/rodkranz)/[**ff**](https://github.com/rodkranz/ff) | Find Text or File |
 3 | [@quintans](https://github.com/quintans)/[**toolkit**](https://github.com/quintans/toolkit) | Several tools to support my Go pet projects |
 2 | [@rusco](https://github.com/rusco)/[**rxjs**](https://github.com/rusco/rxjs) | FRP versus Golang Channels comparison  | [:arrow_upper_right:](http://rusco.github.io)
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@ulisses](https://github.com/ulisses)/[**Static-Code-Analyzer**](https://github.com/ulisses/Static-Code-Analyzer) | The main goal of this project is to implement several software metrics to be able to classify software projects. We use as a test case a programming contest, where the participants send code to the system, and when the contest closes, the administrator (a teacher for example.) receives the code analysis report. | [:arrow_upper_right:](https://github.com/ulisses/Static-Code-Analyzer/wiki)
@@ -462,13 +482,17 @@
 2 | [@ulisses](https://github.com/ulisses)/[**imperative-language-…**](https://github.com/ulisses/imperative-language-compiler) | A simple compiler made in Haskell to compile a simple language |
 2 | [@ulisses](https://github.com/ulisses)/[**pointwise-pointfree-…**](https://github.com/ulisses/pointwise-pointfree-parcial-conversor) | A implementation of a pointwise-pointfree conversor in Haskell |
 2 | [@ulisses](https://github.com/ulisses)/[**disk-catalogue**](https://github.com/ulisses/disk-catalogue) | Catalogue CD's DVD's and HD's |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@MrTheSoulz](https://github.com/MrTheSoulz)/[**NerdPack**](https://github.com/MrTheSoulz/NerdPack) |  |
 5 | [@ChicoRDL](https://github.com/ChicoRDL)/[**-GTi-RPG-V3-**](https://github.com/ChicoRDL/-GTi-RPG-V3-) | Grand Theft International RPG - Official Open Source |
 2 | [@MrTheSoulz](https://github.com/MrTheSoulz)/[**NerdPack-MTS_Routine…**](https://github.com/MrTheSoulz/NerdPack-MTS_Routines) |  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 685 | [@hsousa](https://github.com/hsousa)/[**HCSStarRatingView**](https://github.com/hsousa/HCSStarRatingView) | Simple star rating view for iOS written in Objective-C |
@@ -484,7 +508,9 @@
 3 | [@edualm](https://github.com/edualm)/[**iHelpers**](https://github.com/edualm/iHelpers) | iHelpers is a set of classes designed to help you develop Cocoa Touch apps. |
 3 | [@edualm](https://github.com/edualm)/[**SendGrid-Emailer**](https://github.com/edualm/SendGrid-Emailer) | Cocoa API for sending e-mails using SendGrid. |
 2 | [@rizo](https://github.com/rizo)/[**CATextLayerLab**](https://github.com/rizo/CATextLayerLab) | A simple example demonstrating CoreAnimation text layer features. |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 37 | [@ambs](https://github.com/ambs)/[**Books**](https://github.com/ambs/Books) | My repository to book projects... if I eventually have the guts to write more than one... | [:arrow_upper_right:](http://ambs.github.com/Books)
@@ -533,7 +559,9 @@
 2 | [@ambs](https://github.com/ambs)/[**Dancer2-Plugin-JWT**](https://github.com/ambs/Dancer2-Plugin-JWT) | JWT for Dancer2 |
 2 | [@ambs](https://github.com/ambs)/[**Config-AutoConf**](https://github.com/ambs/Config-AutoConf) | Config::AutoConf Perl Module |
 2 | [@melo](https://github.com/melo)/[**proc-daemontools-pp**](https://github.com/melo/proc-daemontools-pp) | Proc::Daemontools::PP - Pure Perl interface to Daemontools services |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3321 | [@filp](https://github.com/filp)/[**whoops**](https://github.com/filp/whoops) | PHP errors for cool kids  | [:arrow_upper_right:](http://filp.github.io/whoops/)
@@ -583,7 +611,9 @@
 2 | [@filp](https://github.com/filp)/[**roast**](https://github.com/filp/roast) | lightweight php5.3 api framework |
 2 | [@gordalina](https://github.com/gordalina)/[**IfmbBundle**](https://github.com/gordalina/IfmbBundle) | Ifthensoftware IFmb integration into Symfony2 |
 2 | [@luciano-jr](https://github.com/luciano-jr)/[**beerAI**](https://github.com/luciano-jr/beerAI) | A simple project to does specialist system AI |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 600 | [@dpgaspar](https://github.com/dpgaspar)/[**Flask-AppBuilder**](https://github.com/dpgaspar/Flask-AppBuilder) | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.co… |
@@ -651,7 +681,9 @@
 2 | [@imankulov](https://github.com/imankulov)/[**django-template**](https://github.com/imankulov/django-template) | My own django template |
 2 | [@rcarmo](https://github.com/rcarmo)/[**hyrule**](https://github.com/rcarmo/hyrule) | An improved REPL for HyLang |
 2 | [@alcides](https://github.com/alcides)/[**pungi**](https://github.com/alcides/pungi) | Python microwebframework | [:arrow_upper_right:](http://wiki.alcidesfonseca.com)
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 455 | [@goncalossilva](https://github.com/goncalossilva)/[**acts_as_paranoid**](https://github.com/goncalossilva/acts_as_paranoid) | ActiveRecord (>=3.0) plugin which allows you to hide and restore records without actually deleting them. |
@@ -738,11 +770,15 @@
 2 | [@david](https://github.com/david)/[**logbot-www**](https://github.com/david/logbot-www) | This is the web interface to logbot |
 2 | [@methodmissing](https://github.com/methodmissing)/[**cast**](https://github.com/methodmissing/cast) | Fork of cast.rubyforge.org - current pending tracker items | [:arrow_upper_right:](http://cast.rubyforge.org)
 2 | [@webcracy](https://github.com/webcracy)/[**worldpay-html-redire…**](https://github.com/webcracy/worldpay-html-redirect) | Helper and callback methods for integrating your Rails app with WorldPay's HTTP redirect payment gateway | [:arrow_upper_right:](http://paulspringett.name)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@Molecular-Systems-Bi…](https://github.com/Molecular-Systems-Biology-Group)/[**LibjSBML**](https://github.com/Molecular-Systems-Biology-Group/LibjSBML) | JVM based implementation of LibSBML without any C++ dependecies. |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 58 | [@pmalves](https://github.com/pmalves)/[**ctools-installer**](https://github.com/pmalves/ctools-installer) | Shell script that installs the CTools |
@@ -756,15 +792,20 @@
 3 | [@kintoandar](https://github.com/kintoandar)/[**dummy_ca**](https://github.com/kintoandar/dummy_ca) | A quick and dirty way for creating a Root Certification Authority (CA) and one Intermediate CA for testing |
 2 | [@rmrodrigues](https://github.com/rmrodrigues)/[**transmissionbt-notif…**](https://github.com/rmrodrigues/transmissionbt-notifications) | This is a small shell script that allows you send notification when a download finish. The notification can be an email, Push Notification and what you want. |
 2 | [@francomile](https://github.com/francomile)/[**Vagrant-CentOS5-Prov…**](https://github.com/francomile/Vagrant-CentOS5-Provisioning) | Vagrant CentOS 5 Provision script for LAMP server |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@psalterio](https://github.com/psalterio)/[**repository**](https://github.com/psalterio/repository) | musicas do psalterio |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@lmartinho](https://github.com/lmartinho)/[**dotfiles**](https://github.com/lmartinho/dotfiles) | My Settings Files |
 2 | [@morgado-jb](https://github.com/morgado-jb)/[**vim-pine-script**](https://github.com/morgado-jb/vim-pine-script) | Vim support to edit TradingView's Pine Script files |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
